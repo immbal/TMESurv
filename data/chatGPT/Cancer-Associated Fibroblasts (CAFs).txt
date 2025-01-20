@@ -1,0 +1,405 @@
+                    Secreted: IL6, TGFBI, VEGF, FGF2, CXCL12, HGF, PDGF, LOX
+                    Surface: FAP, CD90, α-SMA, CD44, PDGFRα, CD26
+                    Transcription factor: SNAI1, TWIST1, YAP1, ZEB1
+-----
+                    Secreted: FGF2, IL6, VEGF, TGFBI, SPP1, MMP2, CTGF, TIMP1  
+                    Surface: FAP, CD90, CD44, PDGFRα, αSMA  
+                    Transcription factor: RUNX2, YAP1, CEBPβ, NF-kB, STAT3  
+-----
+                    Secreted: IL6, FGF2, VEGFA, TGFBI, CXCL12, LOX, MMP2, MMP9
+                    Surface: FAP, CD90, CD34, PDGFRα, αSMA, CD44
+                    Transcription factor: SNAI1, ZEB1, TWIST1, YBX1
+-----
+Secreted: FGF2, IL6, VEGFA, TGFBI, SPP1, CXCL12  
+Surface: CD90, FAP, CD44, PDGFRα, alpha-SMA  
+Transcription factor: TWIST1, SNAI1, FOXC2, ZEB1
+-----
+                    Secreted: IL6, IL8, VEGFA, FGF2, TGFβ1, CTGF, MMP2, MMP9, CXCL12, PDGF
+                    Surface: FAP, CD90, CD44, CD73, CD105, SFRP1, ALDH1A1
+                    Transcription factor: SNAI1, TWIST1, ZEB1, STAT3, NF-κB, YAP1
+-----
+                    Secreted: FGF2, IL6, TNF, TGFβ1, VEGF, HGF, CXCL12
+                    Surface: FAP, CD90, CD44, PDGFRα, αSMA, CD26
+                    Transcription factor: SNAI1, TWIST1, ZEB1, FOXC2
+-----
+                    Secreted: IL6, IL8, TGFβ, VEGF, FGF2, CXCL12, PDGF, MMP2, MMP9  
+                    Surface: FAP, CD90, CD26, αSMA, CD44  
+                    Transcription factor: SNAI1, TWIST1, NFκB, YBX1, CEBPB  
+-----
+                    Secreted: IL6, TGFBI, CXCL12, FGF2, VEGFA, HGF  
+                    Surface: FAP, CD90, CD44, PDGFRα, α-SMA  
+                    Transcription factor: SNAI1, ZEB1, TWIST1, SOX9
+-----
+                    Secreted: IL6, FGF2, TGFBI, CXCL12, VEGFA, PDGFB, LOX
+                    Surface: FAP, CD90, CD44, VIM, ICAM1, S100A4
+                    Transcription factor: SNAI1, TWIST1, ZEB1, NFκB, YAP1
+-----
+Secreted: FGF2, IL6, VEGFA, TGFBI, SDF1, CXCL12, HGF  
+Surface: FAP, CD90, CD44, PDGFRα, αSMA, CD26  
+Transcription factor: SNAI1, TWIST1, ZEB1, FOXC2, MYC
+-----
+                    Secreted: IL6, CXCL12, TGFBI, MMP2, FGF2, VEGF, CCL2, HGF  
+                    Surface: FAP, CD90, CD44, PDGFRα, αSMA, CD73  
+                    Transcription factor: SNAI1, TWIST1, YAP1, ZEB1
+-----
+Secreted: FGF2, IL6, TGFβ, VEGFA, CXCL12, MMP2, MMP9, SPP1  
+Surface: PDGFRα, FAP, CD90, CD44, αSMA, CSF1R  
+Transcription factor: SNAI1, ZEB1, TWIST1, NFκB, STAT3
+-----
+Secreted: FGF2, IL6, TGFBI, VEGFA, CSPG4, CXCL12, MMP2, MMP9  
+Surface: FAP, PDGFRα, CD90, CD44, CD26, EMMPRIN  
+Transcription factor: SNAI1, TWIST1, YAP1, FOXC2, ZEB1
+-----
+Sure! Here's the organized list of marker genes associated with Cancer-Associated Fibroblasts (CAFs):
+
+                    Secreted: FGF2, IL6, VEGFA, TGFβ, CXCL12, LOX, SDF1
+                    Surface: CD90, CD44, THY1, PDGFRα, FAP, BGLAP
+                    Transcription factor: SNAI1, TWIST1, YAP1, NFκB, ZEB1
+-----
+                    Secreted: FGF2, IL6, TGFβ, VEGFA, CXCL12, MMP2, MMP9, PDGF
+                    Surface: FAP, CD90, CD44, αSMA, PDGFRα
+                    Transcription factor: SNAI1, TWIST1, ZEB1, NF-κB, YAP1
+-----
+Secreted: IL6, IL8, TGFβ1, VEGF, CXCL12, FGF2, PDGF, LCN2  
+Surface: FAP, CD90, CD44, αSMA, THY1, SDC1  
+Transcription factor: SNAI1, TWIST1, STAT3, YAP1, NF-κB, ZEB1  
+-----
+Secreted: IL6, CXCL12, TGFβ, VEGF, FGF2, MMP2, MMP9  
+Surface: CD90, CD44, FAP, PDGFRα, αSMA  
+Transcription factor: SNAI1, SOX9, ZEB1, TWIST1
+-----
+                    Secreted: IL6, CXCL12, TGFBI, VEGFA, FGF2, MMP2, CCL2
+                    Surface: CD90, CD44, FAP, Thy1, PDGFRα, SDC4
+                    Transcription factor: FOS, JUN, NFκB, STAT3, SOX9
+-----
+                    Secreted: FGF2, IL6, VEGFA, TGFBI, MMP2, MMP9, PDGF, CXCL12  
+                    Surface: FAP, CD90, CD44, αSMA, CAV1  
+                    Transcription factor: SNAI1, TWIST1, YAP1, NFκB, STAT3
+-----
+                    Secreted: FGF2, IL6, TGFBI, CXCL12, VEGFA, MMP2, MMP9, SDF1
+                    Surface: FAP, CD90, CD44, PDGFRα, αSMA, CAV1
+                    Transcription factor: SNAI1, ZEB1, TWIST1, YAP1, NFκB
+-----
+                    Secreted: IL6, TGFβ1, FGF2, CXCL12, VEGF, SDF-1, MMP2, MMP9  
+                    Surface: FAP, CD90, CD44, PDGFRα, AXL, ICAM1  
+                    Transcription factor: SNAI1, ZEB1, NF-kB, YAP1, RUNX2  
+-----
+                    Secreted: FGF2, IL6, TGFBI, VEGFA, CXCL12, CTGF, MMP2, MMP9, TIMP1  
+                    Surface: CD90, CD44, FAP, PDGFRB, SDC1  
+                    Transcription factor: FOS, JUN, NF-kB, STAT3, YBX1  
+-----
+                    Secreted: FGF2, IL6, TGFBI, VEGFA, CXCL12, MMP2, HGF
+                    Surface: CD90, CD44, FAP, THY1, PDGFRα, alpha-SMA
+                    Transcription factor: SNAI1, TWIST1, FOXC2, YAP1, ZEB1
+-----
+                    Secreted: FGF2, IL6, VEGFA, TNF, CXCL12, HGF, MMP2, MMP9, LOX
+                    Surface: CD90, CD44, FAP, PDGFRα, THY1, αSMA
+                    Transcription factor: SNAIL, ZEB1, TWIST1, YAP1, NF-κB
+-----
+Secreted: IL6, FGF2, VEGFA, TGFBI, CXCL12, HGF, MMP2, MMP9  
+Surface: FAP, CD90, CD44, PDGFRα, EGFR, αSMA  
+Transcription factor: SNAI1, TWIST1, YAP1, ZEB1, NF-κB
+-----
+Secreted: FGF2, IL6, VEGF, TGFβ, CXCL12, MMP2, MMP9, PDGF, HGF, LCN2  
+Surface: FAP, CD90, CD44, PDGFRα, αSMA, Endosialin (TEM1), CD49f  
+Transcription factor: SNAI1, TWIST1, YAP1, FOXP1, ZEB1, CEBPB
+-----
+Secreted: IL6, IL8, CXCL12, TGFBI, FGF2, VEGFA, MMP2, MMP9, PDGF, TIMP1  
+Surface: FAP, CD90, CD44, αSMA, CD26, CD49f, CD105  
+Transcription factor: SNAI1, TWIST1, ZEB1, FOXC2, NFκB, STAT3  
+-----
+                    Secreted: FGF2, IL6, TGFBI, VEGF, CXCL12, MMP2, SDF1, HGF
+                    Surface: FAP, CD90, CD44, PDGFRα, α-SMA, Thy-1, CD73
+                    Transcription factor: SNAI1, TWIST1, YAP1, STAT3, NFκB
+-----
+                    Secreted: IL6, TGFBI, FGF2, VEGFA, PGF, CXCL12
+                    Surface: FAP, CD90, CD44, PDPN, THY1
+                    Transcription factor: SNAI1, ZEB1, TWIST1, YAP1
+-----
+                    Secreted: IL6, FGF2, TGFβ1, VEGFA, SDF1, HGF, CTGF  
+                    Surface: FAP, PDGFRα, CD90, CD44, αSMA, CSF1R  
+                    Transcription factor: SNAI1, TWIST1, ZEB1, FOXC2
+-----
+Secreted: IL6, IL8, CXCL12, SPP1, MMP2, MMP9, VEGF, TGFβ, COX2  
+Surface: FAP, CD90, CD44, PDGFRα, THY1, α-SMA  
+Transcription factor: SNAI1, TWIST1, ZEB1, NF-κB, STAT3
+-----
+                    Secreted: IL6, IL8, TGFβ, VEGF, FGF2, CXCL12, HGF, CTGF, TIMP1, MMP2  
+                    Surface: FAP, PDGFRα, CD90, CD44, CD26, S100A4, αSMA  
+                    Transcription factor: NFκB, STAT3, YAP1, TWIST1, SNAI1
+-----
+                    Secreted: IL6, IL8, TGFBI, FGF2, CXCL12
+                    Surface: CD90, CD44, FAP, PDGFRα, S100A4
+                    Transcription factor: CEBPB, SOX9, RUNX1, NF-κB
+-----
+                    Secreted: FGF2, IL6, CXCL12, TGFβ, VEGFA, HGF, MMP2, MMP9  
+                    Surface: FAP, CD90, CD44, PDGFRα, αSMA, CD26  
+                    Transcription factor: Snail, Twist, YAP1, ZEB1, C/EBPβ  
+-----
+Secreted: FGF2, IL6, VEGF, PDGF, TGFβ1, SDF1, CTGF, MMP2, MMP9  
+Surface: FAP, CD90, CD44, αSMA, PDGFRα, CD73, CD26  
+Transcription factor: SOX2, NFκB, STAT3, CEBPβ, YBX1
+-----
+Secreted: FGF2, IL6, TGFBI, VEGFA, CXCL12, SPP1, PDGFA  
+Surface: FAP, CD90, CD44, αSMA, CD105, PDGFRα  
+Transcription factor: SNAI1, TWIST1, ZEB1, YAP1, NF-κB
+-----
+Secreted: FGF2, IL6, TGFBI, CXCL12, VEGFA, HGF, MMP2, MMP9  
+Surface: FAP, CD90, CD44, PDGFRα, αSMA, CD105  
+Transcription factor: SNAI1, ZEB1, FOXC2, TWIST1, YAP1
+-----
+                    Secreted: FGF2, IL6, TNF, VEGFA, CTGF, TGFBI, MMP2, MMP9  
+                    Surface: FAP, CD90, CD44, PDGFRα, CXCR4, ICAM1  
+                    Transcription factor: SNAI1, TWIST1, FOXC2, ZEB1, YBX1  
+-----
+                    Secreted: FGF2, IL6, TGFBI, CXCL12, VEGFA, PDGF, LAMB1
+                    Surface: FAP, CD90, CD44, EGP-2, THY1, S100A4
+                    Transcription factor: HIF1A, STAT3, YAP1, TWIST1, ZEB1
+-----
+Secreted: IL6, IL8, TGFβ, CXCL12, VEGF, FGF2, HGF  
+Surface: FAP, PDGFRα, CD90, αSMA, CD26, CD44  
+Transcription factor: SNAI1, ZEB1, TWIST1, FOXC2
+-----
+                    Secreted: FGF2, IL6, TGFβ1, VEGFA, CXCL12, MMP2, MMP9  
+                    Surface: CD90, CD44, FSP1, αSMA, PDGFRα  
+                    Transcription factor: SNAI1, TWIST1, ZEB1, NFκB, YAP1
+-----
+                    Secreted: FGF2, IL6, CXCL12, TGFβ, VEGF, SDF1, HGF  
+                    Surface: PDGFRα, CD90, αSMA, MHC II, CD44  
+                    Transcription factor: FOS, JUN, SNAI1, TWIST1, YAP1
+-----
+Secreted: FGF2, IL6, CXCL12, VEGFA, TGFβ1  
+Surface: CD90, CD44, PDGFRα, αSMA, HLA-DR  
+Transcription factor: SNAI1, TWIST1, FOXC2, YAP1
+-----
+                    Secreted: FGF2, IL6, TGFBI, VEGFA, CXCL12, PDGF, MMP2, HGF
+                    Surface: FAP, CD90, CD44, αSMA, CD26
+                    Transcription factor: SNAI1, TWIST1, RUNX2, NF-kB, ZEB1
+-----
+                    Secreted: FGF2, IL6, TGFBI, VEGFA, CXCL12, SPP1, MMP2, TIMP1
+                    Surface: FAP, CD90, CD44, CD29, PDGFRB
+                    Transcription factor: TWIST1, SNAI1, ZEB1, YAP1
+-----
+                    Secreted: IL6, TGFβ, FGF2, VEGF, CXCL12, PDGF, MMP2, MMP9  
+                    Surface: FAP, CD90, CD44, CD26, αSMA  
+                    Transcription factor: SNAIL, TWIST1, ZEB1, FOXC2
+-----
+                    Secreted: FGF2, IL6, VEGFA, PDGFA, TGFBI, CXCL12, MMP2, MMP9  
+                    Surface: FAP, CD90, CD44, CD73, PDGFRα, α-SMA  
+                    Transcription factor: SNAI1, TWIST1, ZEB1, YAP1
+-----
+Secreted: FGF2, IL6, VEGFA, CTGF, TGFβ1, HGF, SDF-1, IL10  
+Surface: CD90, CD44, PDGFRα, αSMA, Thy-1, CD73  
+Transcription factor: FOS, JUN, NF-kB, YAP1, SOX9
+-----
+Secreted: FGF2, IL6, TGFβ1, VEGFA, CXCL12, HGF, MMPs, SFRP1  
+Surface: FAP, PDGFRα, CD90, CD44, αSMA, ICAM1, CAV1  
+Transcription factor: SNAI1, TWIST1, YBX1, NFκB, ZEB1
+-----
+Secreted: IL6, TGFβ, CXCL12, FGF2, VEGFA, MMP2, MMP9  
+Surface: FAP, PDGFRα, αSMA, CD90, CD44  
+Transcription factor: SNAI1, TWIST1, FOXC2
+-----
+                    Secreted: FGF2, VEGFA, IL6, TGFβ1, CXCL12, MMP2, MMP9, PDGF, HGF
+                    Surface: FAP, CD90, CD44, PDGFRα, αSMA, SDC1
+                    Transcription factor: SNAI1, TWIST1, ZEB1, YAP1, STAT3
+-----
+                    Secreted: IL6, FGF2, VEGF, TGFβ, SDF1, CXCL12, MMP2, MMP9, TIMP1  
+                    Surface: FAP, CD90, CD44, PDGFRα, αSMA, CD105  
+                    Transcription factor: SNAIL, TWIST, YAP1, ZEB1, FOXC1  
+-----
+Secreted: IL6, IL8, TGFβ1, VEGF, SDF1, CXCL12, FGF2, PDGF, MMP2, MMP9  
+Surface: FAP, CD90, CD44, CD26, αSMA, CD105  
+Transcription factor: SNAI1, TWIST1, YAP1, NFκB, HIF1A
+-----
+                    Secreted: FGF2, IL6, TGFBI, VEGFA, CXCL12, MMP2, PDGF, HGF  
+                    Surface: FAP, CD90, CD44, CD26, PDGFRα, αSMA  
+                    Transcription factor: SNAI1, TWIST1, YBX1, FOXC1
+-----
+                    Secreted: IL6, CXCL12, VEGFA, TGFβ1, FGF2, PDGF, MMP2, MMP9, HGF
+                    Surface: FAP, CD90, CD44, CD26, α-SMA, PDGFRα, S100A4
+                    Transcription factor: DDIT3, SOX9, YAP1, STAT3, RUNX2
+-----
+                    Secreted: FGF2, IL6, TGFBI, COL1A1, VEGFA, CXCL12, MMP2, SPARC  
+                    Surface: FAP, CD90, CD44, PDGFRα, αSMA  
+                    Transcription factor: SNAI1, TWIST1, YAP1, NF-κB, SOX9  
+-----
+Secreted: IL6, IL8, TGFβ, VEGF, FN1, PDGF, SDF1  
+Surface: FAP, CD90, CD44, αSMA, CD26  
+Transcription factor: SNAI1, TWIST1, FOXC2, YAP1
+-----
+                    Secreted: IL6, IL8, FGF2, VEGFA, TGFBI, CTGF, SDF1, MMP2, MMP9, HGF  
+                    Surface: FAP, CD90, CD44, PDGFRα, THY1, αSMA, CD26  
+                    Transcription factor: ZEB1, TWIST1, SNAIL, FOXC2, SOX4
+-----
+                    Secreted: IL6, TGFBI, FGF2, CCL2, VEGF, SPP1, CTGF, MMP2, MMP9
+                    Surface: FAP, PDGFRα, CD90, CD44, αSMA, ICAM1, CD326 (EpCAM)
+                    Transcription factor: TWIST1, SNAI1, ZEB1, FOXC2, YAP1
+-----
+                    Secreted: FGF2, IL6, VEGFA, TGFBI, HGF, CXCL12, PDGF, COL1A1
+                    Surface: FAP, CD90, CD44, PDGFRα, αSMA, S100A4
+                    Transcription factor: ZEB1, TWIST1, SMAF1
+-----
+                    Secreted: FGF2, IL6, CXCL12, VEGFA, TGFβ1, HGF, PDGF, MMP2, MMP9  
+                    Surface: FAP, CD90, CD44, αSMA, CD26, ICAM1  
+                    Transcription factor: SNAI1, TWIST1, YAP1, STAT3, NF-kB  
+-----
+Secreted: IL6, IL8, TGFβ, VEGF, FGF2, CXCL12, GDF15, SPARC, MMP2, MMP9  
+Surface: FAP, CD90, CD44, PDGFRα, α-SMA, BSG, Thy1  
+Transcription factor: SNAI1, TWIST1, YAP1, FOXP3, STAT3
+-----
+                    Secreted: FGF2, IL6, VEGFA, TGFBI, CXCL12, MMP2, MMP9, CTGF, ANGPTL4  
+                    Surface: FAP, CD90, CD44, PDGFRα, αSMA, Thy1, CD26  
+                    Transcription factor: FOS, JUN, NFκB, STAT3, TWIST1
+-----
+                    Secreted: FGF2, IL6, TGFβ1, VEGFA, CXCL12, MMP2, MMP9, PDGF
+                    Surface: CD90, CD44, α-SMA, FAP, CD26
+                    Transcription factor: SNAI1, TWIST1, ZEB1, NF-κB, YAP1
+-----
+Secreted: FGF2, IL6, CXCL12, VEGFA, TGFβ1, MMP2, MMP9  
+Surface: FAP, PDGFRα, CD90, CD44, HLA-DR  
+Transcription factor: SNAI1, TWIST1, ZEB1, FOXC2
+-----
+Secreted: IL6, IL8, TGFβ1, VEGF, FGF2, PGF, CCL2  
+Surface: FAP, CD90, CD44, PDGFRα, α-SMA  
+Transcription factor: SNAI1, TWIST1, YAP1, STAT3, NF-κB
+-----
+                    Secreted: FGF2, IL6, VEGFA, TGFBI, SPP1, CXCL12, MMP2, MMP9  
+                    Surface: FAP, CD90, CD44, PDGFRα, THY1  
+                    Transcription factor: SNAI1, ZEB1, TWIST1, YAP1  
+-----
+Secreted: FGF2, IL6, VEGFA, PDGF, CTGF, CCL2, TGFβ1  
+Surface: FAP, CD90, CD44, CD26, αSMA, PDGFRα  
+Transcription factor: SNAI1, TWIST1, YAP1, FOXC2, ZEB1
+-----
+Secreted: IL6, FGF2, VEGFA, CXCL12, TGFBI, MMP2, TIMP1  
+Surface: FAP, CD90, CD44, PDGFRα, αSMA, CD326  
+Transcription factor: SNAI1, ZEB1, TWIST1, YAP1, NF-κB
+-----
+Secreted: FAP, IL6, TGFβ, VEGF, HGF, CXCL12  
+Surface: CD90, CD44, PDGFRα, αSMA, S100A4  
+Transcription factor: PAX5, YAP1, STAT3, NFκB, SOX9  
+-----
+                    Secreted: FGF2, IL6, VEGF, TGFβ, CXCL12, PDGF, MMP2, MMP9, HGF, LOX  
+                    Surface: FAP, CD90, CD44, αSMA, CD105, Integrin β1, HLA-DR  
+                    Transcription factor: SNAI1, TWIST1, ZEB1, FOXC2, NF-κB, YAP1  
+-----
+                    Secreted: FGF2, IL6, VEGFA, TGFβ1, CXCL12, MMP2, MMP9, PDGF, HGF
+                    Surface: CD90, CD44, CD49f, αSMA, CD73, CD105, CD26
+                    Transcription factor: SNAI1, TWIST1, ZEB1, YAP1, NF-kB, STAT3
+-----
+Secreted: IL6, IL8, VEGF, FGF2, TGFβ, CXCL12, MMP2, MMP9  
+Surface: FAP, CD90, CD44, PDGFRα, αSMA, CD26  
+Transcription factor: SNAI1, TWIST1, ZEB1, YAP1, STAT3  
+-----
+Secreted: FGF2, IL6, CXCL12, TGFβ1, HGF, VEGFA, MMP2, MMP9, PDGF, TIMP1  
+Surface: CD90, CD44, alpha-SMA (ACTA2), FAP, PDGFRα, SDC1  
+Transcription factor: SNAI1, TWIST1, ZEB1
+-----
+Secreted: FGF2, IL6, TGFβ1, CXCL12, VEGFA, MMP2, MMP9, HGF  
+Surface: FAP, CD90, CD44, CD26, PDGFRα, αSMA  
+Transcription factor: SNAI1, TWIST1, ZEB1, FOXC2
+-----
+Secreted: IL6, IL8, TGFβ1, VEGF, CTGF, SDF-1, PDGF, FGF2  
+Surface: FAP, CD90, CD44, αSMA, CD26, CD49f  
+Transcription factor: STAT3, NFκB, YAP1, ZEB1, TWIST1
+-----
+                    Secreted: FGF2, IL6, TGFBI, VEGFA, PDGF, CXCL12, MMP2, MMP9, HGF  
+                    Surface: FAP, CD90, CD44, THY1, αSMA, PDGFRα, CD26  
+                    Transcription factor: SNAI1, TWIST1, ZEB1, FOXC2, JUN, STAT3
+-----
+                    Secreted: IL6, CXCL12, VEGF, FGF2, TGFβ1, HGF, PDGF
+                    Surface: FAP, CD90, CD44, αSMA, CD166
+                    Transcription factor: SNAI1, TWIST1, ZEB1, NF-κB, STAT3
+-----
+                    Secreted: IL6, FGF2, TGFβ1, CXCL12, VEGF, MMP2, MMP9
+                    Surface: FAP, PDGFRα, CD90, CD44, αSMA
+                    Transcription factor: SNAI1, TWIST1, FOXC2, ZEB1
+-----
+Secreted: IL6, IL8, TGFBI, VEGF, FGF2, CXCL12  
+Surface: FAP, CD90, PDGFRα, α-SMA, CD44  
+Transcription factor: SNAI1, ZEB1, TWIST1, YBX1
+-----
+Secreted: FGF2, IL6, VEGFA, TGFBI, CXCL12, LOX, MMP2, MMP9  
+Surface: FAP, CD90, PDGFRα, CD44, CD26  
+Transcription factor: SNAI1, ZEB1, YAP1, TWIST1
+-----
+                    Secreted: FGF2, IL6, TGFβ, VEGFA, CXCL12, SDF1, MMP2, MMP9
+                    Surface: αSMA, CD90, CD44, FAP, PDGFRα, CD146
+                    Transcription factor: SLUG, TWIST1, ZEB1, NF-κB, C/EBPβ
+-----
+                    Secreted: FGF2, IL6, TGFBI, VEGFA, CXCL12, MMP2, MMP9, HGF, PDGF
+                    Surface: CD90, CD44, FAP, S100A4, Thy1, αSMA
+                    Transcription factor: SOX9, C/EBPβ, NF-κB, RUNX2, STAT3
+-----
+                    Secreted: FGF2, IL6, TGFβ1, VEGFA, CXCL12, PDGF, HGF, MMP2, MMP9  
+                    Surface: CD90, CD44, FAP, SMA, PDGFRα, CD26  
+                    Transcription factor: SNAI1, TWIST1, ZEB1, NF-κB, STAT3
+-----
+                    Secreted: IL6, FGF2, TGFBI, CXCL12, VEGFA, MMP2, TIMP1, SPP1
+                    Surface: FAP, CD90, CD44, PDGFRα, αSMA, CD73
+                    Transcription factor: SNAI1, ZEB1, TWIST1, FOXC2
+-----
+Secreted: FGF2, IL6, VEGFA, TGFBI, HGF, CXCL12  
+Surface: FAP, CD90, CD44, PDGFRα, αSMA, SDC1  
+Transcription factor: SNAI1, TWIST1, YAP1, FOXC2
+-----
+                    Secreted: FGF2, IL6, TGFβ1, VEGF, CXCL12, MMP2, MMP9, HGF, PDGF
+                    Surface: FAP, CD90, CD44, αSMA, CD26, PDGFRα, Vimentin
+                    Transcription factor: SNAI1, TWIST1, ZEB1, YBX1, NFκB, STAT3
+-----
+                    Secreted: FGF2, IL6, TGFBI, VEGFA, CXCL12, MMP2, HGF, SFRP1  
+                    Surface: CD90, CD44, PDGFRα, FAP, α-SMA  
+                    Transcription factor: SNAI1, TWIST1, YAP1, ZEB1
+-----
+                    Secreted: FGF2, IL6, TGFBI, CXCL12, VEGFA, SPP1, MMP2, HGF  
+                    Surface: CD90, CD44, FAP, PDGFRα, THY1, α-SMA  
+                    Transcription factor: SLUG, SNAIL, TWIST, YAP1, NF-κB  
+-----
+Secreted: FGF2, VEGFA, IL6, TGFBI, CXCL12, MMP2, MMP9, HGF  
+Surface: FAP, PDGFRα, CD90, CD44, αSMA, S100A4  
+Transcription factor: YAP1, TWIST1, RUNX2, SOX2, STAT3
+-----
+                    Secreted: FGF2, IL6, VEGFA, SPP1, TGFBI, CXCL12, MMP2, MMP9, CCL2
+                    Surface: FAP, CD90, CD44, PDGFRα, THY1, CD146
+                    Transcription factor: FOS, JUN, STAT3, NFκB, RUNX2
+-----
+                    Secreted: FGF2, IL6, TGFBI, VEGF, CXCL12, MMP2, MMP9, TNF, PDGF, LCN2  
+                    Surface: CD90, CD44, FAP, CAV1, ICAM1, THY1, SDC4  
+                    Transcription factor: SNAI1, ZEB1, TWIST1, FOXC2, YAP1
+-----
+Secreted: FGF2, IL6, TGFBI, VEGF, CXCL12, MMP2, MMP9, SPARC  
+Surface: FAP, CD90, PDGFRα, ESA, CD44, S100A4  
+Transcription factor: RUNX2, FOXC2, SOX9, MYC, ZEB1  
+-----
+Secreted: FGF2, IL6, VEGFA, TGFBI, CXCL12, CTGF, MMP2, MMP9  
+Surface: FAP, PDGFRB, CD90, CD44, αSMA, LGR5  
+Transcription factor: SNAI1, TWIST1, ZEB1, YAP1, NF-kB
+-----
+                    Secreted: FGF2, IL6, TGFBI, CTGF, VEGF, SDF1, CXCL12
+                    Surface: FAP, PDGFRB, CD90, CD44, THY1, ADAM12
+                    Transcription factor: SOX2, ZEB1, STAT3, YAP1, NF-kB
+-----
+Secreted: IL6, CXCL12, FGF2, VEGF, TGFβ, MMP2, MMP9, HGF  
+Surface: FAP, PDGFRα, CD90, CD44, α-SMA, S100A4  
+Transcription factor: FOXC2, STAT3, YAP1, NF-κB, MYC
+-----
+                    Secreted: FGF2, IL6, VEGFA, TGFBI, CXCL12, HGF, TIMP1, PDGF, MMP2
+                    Surface: FAP, PDGFRα, CD90, CD44, αSMA, CD55
+                    Transcription factor: SNAI1, TWIST1, NFκB, YAP1, ZEB1
+-----
+                    Secreted: FGF2, IL6, CXCL12, TGFβ1, VEGF, SDF-1, HGF
+                    Surface: FAP, CD90, CD44,α-SMA, PDGFR-β
+                    Transcription factor: YAP1, SNAI1, STAT3, NFκB, β-catenin
+-----
+                    Secreted: IL6, IL8, FGF2, TGFBI, CXCL12, VEGFA, PDGF, MMP2, MMP9, TIMP1  
+                    Surface: FAP, CD26, CD90, CD44, PDGFRα, SFRP1, αSMA  
+                    Transcription factor: STAT3, YAP1, TWIST1, NFκB, ZEB1, SOX9
+-----
+                    Secreted: FGF2, IL6, IL8, VEGFA, TGFBI, CXCL12, S100A4, MMP2, MMP9, HGF  
+                    Surface: CD90, CD44, FAP, PDGFRα, αSMA, CD166  
+                    Transcription factor: STAT3, NF-κB, YAP1, C/EBPβ, Twist1
+-----
+                    Secreted: FGF2, IL6, TGFB1, VEGFA, CXCL12, CCL2, HGF, MMP2, LOX, SDF1  
+                    Surface: FAP, PDGFRB, CD90, CD44, CD26, αSMA, EpCAM  
+                    Transcription factor: YAP1, TGFBR1, SOX9, STAT3, NF-kB, RUNX2

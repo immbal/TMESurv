@@ -1,0 +1,407 @@
+                    Secreted: IL10, TGFBI, CCL17, CCL22, VEGFA, MMP9, ARG1, FGF2  
+                    Surface: CD206, CD163, PD-L1, CD301, CD14, CD274  
+                    Transcription factor: STAT6, PPARγ, KLF4, C/EBPβ, IRF4
+-----
+                    Secreted: IL10, TGFβ, CCL17, CCL22, VEGFA, MMP9, ARG1, FGF2
+                    Surface: CD163, CD206, CD301, HLA-DR, PD-L1, TIM-3, CSF1R
+                    Transcription factor: PPARγ, STAT6, KLF4, C/EBPβ, RELMα
+-----
+Secreted: IL10, TGFBI, CCL17, CCL22, VEGFA  
+Surface: CD206, CD163, CD301, PD-L1, HLA-DR  
+Transcription factor: STAT6, PPARγ, IRF4, C/EBPβ  
+-----
+                    Secreted: IL10, TGFBI, CCL22, VEGFA, MMP9
+                    Surface: CD206, CD163, PD-L1, CD200R, TREM2
+                    Transcription factor: PPARγ, STAT6, IRF4, CEBPB
+-----
+                    Secreted: IL10, TGFBI, CCL22, CCL17, MMP9, VEGFA
+                    Surface: CD206, CD163, PD-L1, CD36, HLA-DR
+                    Transcription factor: STAT6, PPARγ, IRF4, KLF4
+-----
+Secreted: IL10, TGFβ, CCL22, CCL18, ARG1, MMP9  
+Surface: CD206, CD163, PD-L1, CD204, HLA-DR  
+Transcription factor: PPARγ, STAT6, IRF4, KLF4
+-----
+Secreted: IL10, TGFBI, CCL18, CCL22, MMP9  
+Surface: CD163, CD206, CD301, F4/80  
+Transcription factor: STAT6, PPARγ, IRF4, CEBPB
+-----
+Secreted: IL10, IL1RA, TGFβ, CCL22, CCL17, VEGFA, ARG1, MMP9  
+Surface: CD206, CD163, PD-L1, CD301, TIM-3, HLA-DR  
+Transcription factor: STAT6, PPARγ, C/EBPβ, KLF4, MAFF
+-----
+                    Secreted: IL10, TGFBI, CCL22, CCL17, VEGFA, MMP9, ARG1, FGF2  
+                    Surface: CD206, CD163, PD-L1, CD301, CD274, F4/80  
+                    Transcription factor: STAT6, PPARγ, IRF4, CEBPB, KLF4
+-----
+Secreted: IL10, TGFBI, CCL22, CCL17, VEGFA, MMP9  
+Surface: CD206, CD163, PDL1, FIZZ1, CD301  
+Transcription factor: STAT6, PPARγ, KLF4, IRF4, C/EBPβ
+-----
+Secreted: IL10, TGFβ, CCL17, CCL22, MMP9  
+Surface: CD163, CD206, CD301, PDL1, CSF1R  
+Transcription factor: STAT6, PPARγ, KLF4, CEBPB, IRF4
+-----
+Secreted: IL10, TGFβ, CCL22, CCL17, VEGFA, MMP9  
+Surface: CD163, CD206, PD-L1, CD301, F4/80  
+Transcription factor: PPARγ, STAT6, KLF4, IRF4
+-----
+Secreted: IL10, TGFBI, CCL17, CCL22, VEGFA, MMP9  
+Surface: CD206, CD163, HLA-DR, PD-L1, CD200R  
+Transcription factor: STAT6, PPARγ, IRF4, C/EBPβ
+-----
+                    Secreted: IL10, TGFBI, CCL17, CCL22, ARG1, MMP9, CHI3L1
+                    Surface: CD206, CD163, PD-L1, F4/80, CSF1R, HLA-DR
+                    Transcription factor: STAT6, PPARγ, C/EBPβ, KLF4, IRF4
+-----
+                    Secreted: IL10, TGFBI, CCL18, VEGFA, MMP9  
+                    Surface: CD206, CD163, CD301, HLA-DR, PD-L1  
+                    Transcription factor: PPARγ, STAT6, CEBPB, IRF4
+-----
+                    Secreted: IL10, TGFβ, CCL22, CCL17, MMP9, Arg1, FIZZ1
+                    Surface: CD206, CD163, CD301, PD-L1, CD80
+                    Transcription factor: STAT6, PPARγ, IRF4, C/EBPβ
+-----
+Secreted: IL10, IL1RA, TGFBI, CCL17, CCL22, MMP9  
+Surface: CD206, CD163, CSF1R, PD-L2, CD301  
+Transcription factor: RELB, PPARγ, STAT6, IRF4
+-----
+Secreted: IL10, IL1RA, TGFβ, CCL17, CCL22, MMP9  
+Surface: CD206, CD163, CD301, PD-L1, HLA-DR  
+Transcription factor: STAT6, PPARγ, IRF4, NF-κB, C/EBPβ
+-----
+Secreted: IL10, TGFβ, CCL18, CCL22, MMP9  
+Surface: CD206, CD163, CD301, PD-L1, HLA-DR  
+Transcription factor: STAT6, PPARγ, C/EBPβ, IRF4
+-----
+                    Secreted: IL10, TGFβ, CCL17, CCL22, VEGFA, MMP9
+                    Surface: CD206, CD163, CD301, HLA-DR, PD-L1
+                    Transcription factor: STAT6, PPARγ, IRF4, C/EBPβ
+-----
+Secreted: IL10, TGFBI, CCL22, CCL17, VEGFA, ARG1, MMP9  
+Surface: CD206, CD163, CD301, PD-L2, TIM-3, F4/80  
+Transcription factor: PPARγ, STAT6, KLF4, CEBPB, IRF4
+-----
+                    Secreted: IL10, IL1RN, TGFβ, CCL22, CCL17, MMP9  
+                    Surface: CD163, CD206, CD301, PD-L1, HLA-DR  
+                    Transcription factor: STAT6, PPARγ, RELMα, C/EBPβ  
+-----
+Secreted: IL10, TGFBI, ARG1, CCL18, MMP9, VEGFA  
+Surface: CD163, CD206, HLA-DR, FcγRIIB, PD-L1  
+Transcription factor: PPARγ, STAT6, KLF4, C/EBPβ
+-----
+                    Secreted: IL10, TGFBI, CCL17, CCL22, ARG1, MMP9, CHI3L1  
+                    Surface: CD206, CD163, HLA-DR, CD301, PD-L1, VEGFR2  
+                    Transcription factor: PPARγ, STAT6, KLF4, IRF4
+-----
+Secreted: IL10, TGFBI, CCL17, CCL22, ARG1, MMP9, VEGFA  
+Surface: CD206, CD163, LAMP2, PD-L1, IL-4R, SIGLEC1  
+Transcription factor: STAT6, PPARγ, IRF4, KLF4, NF-κB
+-----
+Secreted: IL10, CCL18, ARG1, MMP9, VEGFA  
+Surface: CD206, CD163, PD-L2, TIM-3, HLA-DR  
+Transcription factor: PPARγ, STAT6, KLF4, C/EBPβ
+-----
+                    Secreted: IL10, TGFβ, CCL22, VEGF, ARG1, MMP9
+                    Surface: CD206, CD163, PD-L1, CD301, HLA-DR
+                    Transcription factor: PPARγ, STAT6, KLF4, C/EBPβ
+-----
+                    Secreted: IL10, TGFβ, CCL22, CCL17, VEGFA, ARG1, MMP9, FGF2
+                    Surface: CD163, CD206, PD-L1, HLA-DR, CD204, IL-1R2
+                    Transcription factor: PPARγ, STAT6, IRF4, C/EBPβ
+-----
+Secreted: IL10, IL1RN, TGFβ, CCL18, CCL22, ARG1, MMP9  
+Surface: CD206, CD163, CD301, HLA-DR, PD-L2  
+Transcription factor: STAT6, PPARγ, C/EBPβ, KLF4
+-----
+                    Secreted: IL10, IL1RA, TGFβ, CCL22, CCL18, ARG1, VEGFA, MMP9  
+                    Surface: CD206, CD163, CD204, HLA-DR, PD-L1, TIM-3  
+                    Transcription factor: PPARγ, STAT6, RELMα, C/EBPβ, IRF4
+-----
+                    Secreted: IL10, TGFβ1, CCL17, CCL22, VEGFA, ARG1, MMP9  
+                    Surface: CD206, CD163, PDL1, HLA-DR, CD301, TIM-3  
+                    Transcription factor: STAT6, PPARγ, C/EBPβ, KLF4  
+-----
+Secreted: IL10, CCL17, CCL22, TGFBI, VEGFA  
+Surface: CD206, CD163, CD301, HLA-DR, PD-L1  
+Transcription factor: STAT6, PPARγ, C/EBPβ, KLF4
+-----
+                    Secreted: IL10, TGFBI, CCL22, CCL17, MMP9, VEGFA, ARG1, FGF2
+                    Surface: CD206, CD163, PD-L1, CD301, CD16, CD14
+                    Transcription factor: STAT6, PPARγ, CEBPB, KLF4, IRF4
+-----
+Secreted: IL10, TGFBI, CCL17, CCL22, VEGFA, MMP9  
+Surface: CD206, CD163, FcgRIIb, CD301, PD-L1  
+Transcription factor: STAT6, PPARγ, IRF4, C/EBPβ
+-----
+                    Secreted: IL10, TGFβ, CCL18, CCL22, VEGFA, MMP9
+                    Surface: CD206, CD163, CD301, HLA-DR, PD-L1
+                    Transcription factor: STAT6, PPARγ, IRF4, C/EBPβ
+-----
+                    Secreted: IL10, TGFβ, CCL17, CCL22, Arg1, MMP9, VEGFA
+                    Surface: CD163, CD206, PD-L1, CD204, HLA-DR, TIM-3
+                    Transcription factor: PPARγ, STAT6, C/EBPβ, KLF4, IRF4
+-----
+                    Secreted: IL10, TGFBI, CCL22, VEGFA, ARG1, MMP9, FGF2, PDGF
+                    Surface: CD163, CD206, HLA-DR, CD301, SIRPα, CD14
+                    Transcription factor: PPARγ, STAT6, C/EBPβ, IRF4, KLF4
+-----
+                    Secreted: IL10, TGFBI, CCL17, CCL22, ARG1, MMP9, PDGF, VEGFA
+                    Surface: CD206, CD163, CD301, HLA-DR, CD47, MerTK
+                    Transcription factor: STAT6, PPARγ, C/EBPβ, IRF4, KLF4
+-----
+Secreted: IL10, IL1RN, TGFβ1, CCL17, CCL22, VEGFA, ARG1, MMP9  
+Surface: CD163, CD206, PD-L1, HLA-DR, SIRPa, CD204  
+Transcription factor: STAT6, PPARγ, IRF4, C/EBPβ
+-----
+Secreted: IL10, TGFβ, CCL22, CCL17, VEGFA  
+Surface: CD206, CD163, CD301, PD-L1, FPR2  
+Transcription factor: STAT6, PPARγ, KLF4, CEBPB  
+-----
+                    Secreted: IL10, IL1RA, TGFβ, CCL22, CCL17, VEGFA, MMP9  
+                    Surface: CD206, CD163, PD-L1, CD301, CD14, HLA-DR  
+                    Transcription factor: STAT6, PPARγ, C/EBPβ, KLF4, IRF4  
+-----
+Secreted: IL10, IL1RA, TGFBI  
+Surface: CD163, CD206, PDL1  
+Transcription factor: STAT6, PPARγ, C/EBPβ  
+-----
+Sure! Here’s the list of marker genes associated with M2 macrophages:
+
+                    Secreted: IL10, TGFβ1, CCL22, Arg1, CCL18, Fizz1
+                    Surface: CD206, CD163, PD-L2, MRC1, CD301
+                    Transcription factor: PPARγ, STAT6, KLF4, C/EBPβ
+-----
+Secreted: IL10, TGFBI, ARG1, CCL17, CCL22, MMP9  
+Surface: CD206, CD163, HLA-DR, PD-L1, CD301  
+Transcription factor: STAT6, PPARγ, KLF4, C/EBPβ
+-----
+Secreted: IL10, TGFBI, CCL22, IL1RA, VEGFA  
+Surface: CD163, CD206, PD-L2, CD274, FcγR  
+Transcription factor: STAT6, PPARγ, C/EBPβ, IRF4
+-----
+Secreted: IL10, TGFBI, CCL17, CCL22, VEGFA, ARG1, MMP9  
+Surface: CD206, CD163, PD-L1, CD301, F4/80  
+Transcription factor: PPARγ, STAT6, IRF4, KLF4
+-----
+                    Secreted: IL10, TGFβ, CCL17, CCL22, ARG1, MMP9, VEGFA
+                    Surface: CD206, CD163, CD204, HLA-DR, PD-L1, CD301
+                    Transcription factor: STAT6, PPARγ, KLF4, C/EBPβ
+-----
+Secreted: IL10, TGFβ, CCL18, CCL22, VEGF, ARG1, MMP9  
+Surface: CD206, CD163, LAG3, PD-L2, HLA-DR, PDL1  
+Transcription factor: PPARγ, STAT6, CEBPB, KLF4, IRF4
+-----
+                    Secreted: IL10, TGFβ, CCL22, CCL17, arg1, chitinase 3-like 3 (chi3l3), resistin-like molecule α (retnla)
+                    Surface: CD206, CD163, PD-L1, CD301, MRC1
+                    Transcription factor: STAT6, PPARγ, KLF4, C/EBPβ
+-----
+                    Secreted: IL10, TGFBI, CCL18, VEGFA, MMP9  
+                    Surface: CD206, CD163, HLA-DR, PD-L1, TIM-3  
+                    Transcription factor: STAT6, PPARγ, IRF4, NF-κB
+-----
+                    Secreted: IL10, TGFBI, CCL18, CCL22, MMP9, VEGFA
+                    Surface: CD206, CD163, PD-L1, CD280, CD274
+                    Transcription factor: STAT6, PPARγ, CEBPB, IRF4, KLF4
+-----
+Secreted: IL10, IL1RN, TGFBI, CCL17, CCL22, CHI3L1  
+Surface: CD163, CD206, MRC1, PD-L1, FGL2  
+Transcription factor: IRF4, STAT6, PPARγ, CEBPB
+-----
+                    Secreted: IL10, ARG1, CCL22, CCL17, TGFβ1, VEGFA  
+                    Surface: CD206, CD163, CD301, HLA-DR, PD-L1  
+                    Transcription factor: STAT6, PPARγ, C/EBPβ, IRF4  
+-----
+                    Secreted: IL10, TGFBI, CCL17, CCL22, ARG1, CHI3L1, MMP9, VEGFA  
+                    Surface: CD206, CD163, PD-L1, CSF1R, CD301, HLA-DR, TIM-4  
+                    Transcription factor: STAT6, PPARγ, IRF4, C/EBPβ, KLF4  
+-----
+Secreted: IL10, TGFBI, MMP9, CCL17, CCL22, VEGFA  
+Surface: CD163, CD206, PD-L1, CD301, F4/80  
+Transcription factor: KLF4, STAT6, PPARγ, MAFF
+-----
+Secreted: IL10, TGFβ, CCL22, CCL17, VEGFA, MMP9  
+Surface: CD206, CD163, PD-L1, HLA-DR, CCR2  
+Transcription factor: PPARγ, STAT6, IRF4, KLF4
+-----
+                    Secreted: IL10, TGFβ, CCL22, CCL17, VEGFA, MMP9
+                    Surface: CD206, CD163, CD301, PD-L2, CD64
+                    Transcription factor: STAT6, PPARγ, C/EBPβ, IRF4
+-----
+                    Secreted: IL10, TGFBI, CCL18, CCL22, arg1, ch25h
+                    Surface: CD206, CD163, PD-L1, CD301, F4/80
+                    Transcription factor: IRF4, STAT6, PPARγ, KLF4
+-----
+Secreted: IL10, TGFBI, CCL22, CCL17, MMP9, VEGFA  
+Surface: CD163, CD206, PD-L1, CD301, TIM-3, F4/80  
+Transcription factor: PPARγ, STAT6, IRF4, NF-κB, KLF4
+-----
+                    Secreted: IL10, TGFBI, CXCL13, CCL17, CCL22, ARG1, CHI3L1, MMP9  
+                    Surface: CD206, CD163, PD-L1, CD36, F4/80, MerTK  
+                    Transcription factor: PPARγ, STAT6, CEBPB, IRF4
+-----
+                    Secreted: IL10, IL1RA, CCL17, CCL22, TGFβ, VEGFA, MMP9
+                    Surface: CD206, CD163, HLA-DR, PD-L1, FPR2, TIM-4
+                    Transcription factor: STAT6, PPARγ, RELB, IRF4, KLF4
+-----
+Secreted: IL10, IL1RA, TGFβ, CCL18, CCL22, VEGFA, MMP9  
+Surface: CD206, CD163, PDL1, CD301, CSF1R, CD80  
+Transcription factor: STAT6, PPARγ, KLF4, C/EBPβ, IRF4
+-----
+                    Secreted: IL10, IL4, TGFBI, CCL18, CCL22, VEGFA
+                    Surface: CD206, CD23, CD163, CD301, PD-L2
+                    Transcription factor: PPARγ, STAT6, C/EBPβ, KLF4
+-----
+                    Secreted: IL10, TGFβ, CCL17, CCL22, ARG1, CHI3L1, MMP9  
+                    Surface: CD206, CD163, PD-L1, CD301, SIGLEC1  
+                    Transcription factor: PPARγ, STAT6, KLF4, IRF4
+-----
+                    Secreted: IL10, TGFβ, CCL17, CCL22, MMP9
+                    Surface: CD206, CD163, PD-L1, CD301, FcgRIIb
+                    Transcription factor: STAT6, PPARγ, KLF4, IRF4
+-----
+Secreted: IL10, IL1RA, TGFβ, CCL22, CCL17, VEGF, MMP9  
+Surface: CD206, CD163, CD301, PD-L1, CD14, HLA-DR  
+Transcription factor: STAT6, PPARγ, IRF4, KLF4, NF-κB
+-----
+                    Secreted: IL10, TGFβ, CCL17, CCL22, ARGINASE1, MMP9, VEGFA
+                    Surface: CD163, CD206, PD-L1, HLA-DR, FIZZ1, SIRPα
+                    Transcription factor: STAT6, PPARγ, C/EBPβ, IRF4
+-----
+                    Secreted: IL10, TGFβ1, CCL22, CCL17, MMP9, VEGF, arg1, FGF2  
+                    Surface: CD206, CD163, PD-L1, CD204, MR, TIM-3  
+                    Transcription factor: STAT6, PPARγ, KLF4, C/EBPβ
+-----
+Secreted: IL10, TGFBI, CCL17, CCL22, VEGFA, ARG1, MMP9  
+Surface: CD206, CD163, PD-L1, HLA-DR, ICAM1, F4/80  
+Transcription factor: STAT6, PPARγ, KLF4, CEBPB, IRF4  
+-----
+Secreted: IL-10, TGFβ, CCL22, CCL17, VEGF, Arginase 1  
+Surface: CD206, CD163, PD-L1, MHC II, CD301  
+Transcription factor: STAT6, PPARγ, KLF4, NF-κB, C/EBPβ
+-----
+                    Secreted: IL10, TGFBI, CCL17, CCL22, MMP9, ARG1, VEGFA
+                    Surface: CD206, CD163, PD-L1, TIM-3, CD301, F4/80
+                    Transcription factor: STAT6, PPARγ, KLF4, CEBPB, IRF4
+-----
+Secreted: IL10, IL6, TGFβ, CCL17, CCL22, MMP9, VEGFA, PDGF, ARG1  
+Surface: CD206, CD163, CD301, HLA-DR, TIM-3, PDL1, F4/80  
+Transcription factor: STAT6, PPARγ, KLF4, IRF4, CEBPB, NFAT5
+-----
+                    Secreted: IL10, TGFBI, CCL22, VEGFA, MMP9, ARG1, FGF2
+                    Surface: CD206, CD163, PD-L1, CD36, CD301, HLA-DR
+                    Transcription factor: STAT6, PPARγ, CEBPB, KLF4, IRF4
+-----
+Secreted: IL10, TGFβ, CCL17, CCL22, Arg1, MRC1  
+Surface: CD206, CD163, PD-L1, CD301  
+Transcription factor: STAT6, PPARγ, KLF4, NF-κB
+-----
+                    Secreted: IL10, TGFBI, CCL18, MMP9, ARG1, VEGFA
+                    Surface: CD206, CD163, CD301, PD-L1, F4/80
+                    Transcription factor: STAT6, PPARγ, CEBPB
+-----
+Secreted: IL10, IL1RA, TGFβ1, CCL22, CCL18, VEGFA  
+Surface: CD206, CD163, CD301, PD-L1, MRC1  
+Transcription factor: STAT6, PPARγ, IRF4, c-MAF, KLF4  
+-----
+                    Secreted: IL10, TGFβ, CCL17, CCL22, MMP9, VEGF
+                    Surface: CD206, CD163, PD-L1, CD301, CD274
+                    Transcription factor: PPARγ, STAT6, IRF4, KLF4
+-----
+Secreted: IL10, TGFβ, CCL18, CCL22, ARG1, MMP9  
+Surface: CD206, CD163, PD-L2, CD301, F4/80  
+Transcription factor: STAT6, PPARγ, IRF4, KLF4
+-----
+                    Secreted: IL10, TGFβ1, CCL18, CCL22, MMP9, ARG1, VEGFA
+                    Surface: CD206, CD163, CD301, PD-L1, F4/80, MerTK
+                    Transcription factor: STAT6, PPARγ, IRF4, C/EBPβ
+-----
+                    Secreted: IL10, TGFβ, CCL17, CCL22, MMP9, VEGF
+                    Surface: CD163, CD206, CD301, PD-L2, EGF receptor
+                    Transcription factor: STAT6, PPARγ, C/EBPβ, KLF4
+-----
+Secreted: IL10, TGFβ, CCL17, CCL22, CCL18, VEGFA  
+Surface: CD206, CD163, CD301, MRC1, PD-L1, CTLA4  
+Transcription factor: STAT6, PPARγ, IRF4, C/EBPβ
+-----
+                    Secreted: IL10, TGFβ, CCL22, IL1RA, VEGFA, MMP9  
+                    Surface: CD206, CD163, PD-L2, HLA-DR, CD301  
+                    Transcription factor: STAT6, PPARγ, KLF4
+-----
+Secreted: IL10, IL1RA, TGFβ, CCL17, CCL22, VEGFA  
+Surface: CD206, CD163, PD-L1, MRC1  
+Transcription factor: STAT6, PPARγ, IRF4, CEBPB
+-----
+Secreted: IL10, TGFBI, CCL22, CCL17, MMP9, VEGFA  
+Surface: CD206, CD163, MR, PD-L1, CD301  
+Transcription factor: PPARγ, STAT6, C/EBPβ, KLF4
+-----
+                    Secreted: IL10, IL1RL1, CCL17, CCL22, TGFβ1, MMP9, ARG1, FGF2
+                    Surface: CD206, CD163, PD-L1, CCR2, CD80, CD301, CD14
+                    Transcription factor: STAT6, PPARγ, KLF4, IRF4
+-----
+                    Secreted: IL10, TGFβ, CCL18, CCL22, VEGFA, MMP9, Arg1
+                    Surface: CD206, CD163, PD-L1, CD301, IL4R, FIZZ1
+                    Transcription factor: STAT6, PPARγ, C/EBPβ, IRF4, KLF4
+-----
+Secreted: IL10, TGFβ1, CCL18, CCL22, Arg1, MMP9  
+Surface: CD206, CD163, PD-L1, CD301, FcγRIIB  
+Transcription factor: STAT6, PPARγ, IRF4, CEBPB
+-----
+Sure! Here’s the list:
+
+                    Secreted: IL10, TGFβ1, CCL18, CCL22, MMP9
+                    Surface: CD206, CD163, CD301, PD-L1, HLA-DR
+                    Transcription factor: STAT6, PPARγ, c-MAF, IRF4
+-----
+Secreted: IL10, TGFβ1, Arg1, CCL18, CCL22, VEGFA  
+Surface: CD206, CD163, CD301, PD-L2, MHC class II  
+Transcription factor: PPARγ, STAT6, C/EBPβ, KLF4
+-----
+                    Secreted: IL10, TGFβ, CCL17, CCL22, VEGFA
+                    Surface: CD206, CD163, HLA-DR, CD301, PD-L1
+                    Transcription factor: STAT6, PPARγ, KLF4, IRF4
+-----
+Secreted: IL10, IL1RN, CCL18, TGFBI, VEGFA  
+Surface: CD206, CD163, HLA-DR, PD-L2  
+Transcription factor: STAT6, PPARγ, C/EBPβ, KLF4  
+-----
+                    Secreted: IL10, TGFβ, ARG1, CCL17, CCL22, MMP9, VEGFA
+                    Surface: CD206, CD163, MR, PD-L1, CD301, CD14
+                    Transcription factor: PPARγ, STAT6, KLF4, CEBPB, RELMα
+-----
+Secreted: IL-10, TGFβ, CCL22, CCL18, VEGFA, MMP9  
+Surface: CD163, CD206, PD-L1, HLA-DR, CX3CR1  
+Transcription factor: PPARγ, STAT6, C/EBPβ, IRF4
+-----
+Secreted: IL10, TGFβ, CCL22, CCL17, MMP9  
+Surface: CD206, CD163, SCARB1, PD-L2  
+Transcription factor: STAT6, PPARγ, KLF4, IRF4
+-----
+Secreted: IL10, TGFβ, CCL18, MMP9, VEGFA  
+Surface: CD206, CD163, CD301, HLA-DR, PDL1  
+Transcription factor: STAT6, PPARγ, KLF4, C/EBPβ
+-----
+                    Secreted: IL10, TGFBI, CCL18, CCL22, ARG1, MMP9, VEGFA
+                    Surface: CD206, CD163, CD301, HLA-DR, PD-L1, TIM-3
+                    Transcription factor: STAT6, PPARγ, IRF4, KLF4, CEBPB
+-----
+Secreted: IL-10, TGFβ1, CCL22, CCL18, VEGF, MMP9  
+Surface: CD206, CD163, PD-L1, CD301, FcγRIIB  
+Transcription factor: IRF4, STAT6, PPARγ, KLF4, GATA3
+-----
+                    Secreted: IL10, TGFBI, CCL17, CCL22, ARG1, MMP9, VEGFA, FGF2
+                    Surface: CD206, CD163, PD-L1, CD301, CD47
+                    Transcription factor: STAT6, PPARγ, KLF4, C/EBPβ
+-----
+Secreted: IL10, IL1RA, TGFβ, CCL22, VEGFA, MMP9  
+Surface: CD206, CD163, CD301, PD-L1, CD14  
+Transcription factor: PPARγ, STAT6, KLF4, C/EBPβ
+-----
+Secreted: IL10, TGFβ, CCL17, CCL22, MMP9  
+Surface: CD163, CD206, CD301, PD-L1, ICOS  
+Transcription factor: STAT6, PPARγ, CEBPB, KLF4
+-----
+                    Secreted: IL10, TGFBI, CCL22, VEGFA, ARG1, MUC1
+                    Surface: CD206, CD163, CD301, PD-L2, TIM-4
+                    Transcription factor: STAT6, PPARγ, C/EBPβ, IRF4

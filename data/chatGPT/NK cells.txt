@@ -1,0 +1,407 @@
+Secreted: IFNG, TNF, GZMB, PRF1, CCL5  
+Surface: NKG2D, CD56, CD16, NKp30, NKp46, CD69  
+Transcription factor: EOMES, T-bet, RUNX3, ZNF683
+-----
+Secreted: IFNG, TNF, PERFORIN, GRANZYME A, GRANZYME B  
+Surface: CD56, CD16, NKG2D, NKp46, KIR  
+Transcription factor: EOMES, T-bet, RUNX3, PLZF
+-----
+                    Secreted: IFNG, TNF, CCL5, GZMB, PRF1
+                    Surface: CD56, CD16, NKG2D, NKP30, KIR, CD94
+                    Transcription factor: EOMES, T-BET, RUNX3
+-----
+Secreted: IFNG, TNF, GZMB, PRF1, CCL5  
+Surface: CD56, NKG2D, CD16, KIRs, PD-1  
+Transcription factor: EOMES, TBET, PLZF, NFIL3
+-----
+                    Secreted: IFNG, TNF, GM-CSF, MIP-1A, MIP-1B, IL-10, GZMB, GZMA
+                    Surface: CD56, CD16, NKG2D, NKp46, KIRs, CD94, 2B4, CD69
+                    Transcription factor: Eomes, T-bet, Runx3, Id2, NFAT, Prdm1
+-----
+Secreted: IFNG, TNF, GZMB, GZMA, CCL5  
+Surface: CD56, CD16, NKG2D, NKp30, NKp46, CD94  
+Transcription factor: EOMES, TBX21, RUNX3
+-----
+                    Secreted: IFNG, TNF, PERFORIN, GRANZYME B, CCL5
+                    Surface: CD56, NKG2D, CD16, KIR2DL1, CD94
+                    Transcription factor: T-bet, Eomes, NFAT, PLZF, RUNX3
+-----
+                    Secreted: IFNG, TNF, IL10, CCL5, GM-CSF  
+                    Surface: NKG2D, CD16, CD56, CD94, KIR  
+                    Transcription factor: EGR2, T-bet, PLZF, Runx3, NFIL3  
+-----
+Secreted: IFNG, TNF, CCL5, GMCSF, GZMB  
+Surface: NKG2D, CD56, CD16, NKp30, NKp46, CD94  
+Transcription factor: TBX21, EOMES, RUNX3, TCF7, ZBTB32
+-----
+Secreted: IFNG, TNF, GZMB, GZMA, CCL5  
+Surface: NKG2D, CD56, CD16, NKp30, NKp46  
+Transcription factor: EOMES, TBX21, GATA3, RUNX3  
+-----
+Secreted: IFNG, TNF, GZMB, PRF1, CCL5  
+Surface: CD56, NCR1, KLRD1, CD16, NKG2D  
+Transcription factor: TBX21, EOMES, RUNX3, ZEB2
+-----
+Secreted: IFNG, TNF, GM-CSF, MIP-1A, MIP-1B  
+Surface: CD56, CD16, NKG2D, NKp30, NKp46, CD69  
+Transcription factor: Eomes, T-bet, Runx3, Id2
+-----
+Secreted: IFNG, TNF, CCL5, GMCSF  
+Surface: CD56, NKG2D, CD94, KIR, LAG3, NCR1  
+Transcription factor: T-bet, Eomes, Hobit, Runx3
+-----
+Secreted: IFNG, TNF, GZMB, PRF1, CCL5  
+Surface: CD56, CD16, NKG2D, KIR, CD69  
+Transcription factor: TBX21, EOMES, RUNX3
+-----
+                    Secreted: IFNG, TNF, CCL5, GM-CSF, perforin, granzyme B  
+                    Surface: NKG2D, CD56, CD16, CD94, KIR, NCR1  
+                    Transcription factor: EOMES, TBX21, TCF7, PU.1
+-----
+Secreted: IFNG, TNF, PRF1, GZMB, CCL5  
+Surface: CD56, NKG2D, CD16, NKp30, NKp46  
+Transcription factor: EOMES, T-bet, Runx3
+-----
+                    Secreted: IFNG, TNF, GZMB, PRF1, CCL5, CXCL10  
+                    Surface: CD56, NKG2D, CD16, NKp30, NKp44, CD94, KIR  
+                    Transcription factor: T-bet, Eomes, Runx3, Zbtb32, Id2
+-----
+                    Secreted: IFNG, TNF, GMCSF, PERFORIN, GRANZYME B  
+                    Surface: CD56, NKG2D, CD16, NKp46, KIR, CD94  
+                    Transcription factor: EOMES, T-bet, PLZF, NFAT, RUNX3  
+-----
+                    Secreted: IFNG, TNF, CCL5, GZMB, GZMA, PRF1
+                    Surface: NKG7, CD56, CD16, NKP46, KIR2DL1, CD69, CD94
+                    Transcription factor: Eomes, T-bet, Runx3, NFATC1
+-----
+```
+Secreted: IFNG, TNF, GMCSF, CCL5, GZMB, GZMA
+Surface: NKG2D, CD16, CD56, CD94, KIR, LFA-1
+Transcription factor: EOMES, T-BET, RUNX3, NFATC1
+```
+-----
+Secreted: IFNG, TNF, CCL5, GM-CSF, MIP-1α  
+Surface: CD56, NKG2D, CD16, NKp30, NKp46, CD69, CD158a  
+Transcription factor: T-bet, Eomes, RUNX3, NFAT, GATA3
+-----
+Secreted: IFNG, TNF, GM-CSF, MIP-1A, MIP-1B  
+Surface: CD56, CD16, NKG2D, KIR, DNAM-1, CD94  
+Transcription factor: EOMES, TBX21, RUNX3
+-----
+Secreted: IFNG, TNF, CCL5, GZMB, GZMA, PRF1  
+Surface: CD56, CD16, NKG2D, KIR, DNAM-1, CD94  
+Transcription factor: Eomes, T-bet, Runx1
+-----
+Secreted: IFNG, TNF, PRF1, GZMB, CCL5  
+Surface: CD56, NKG2D, CD16, NKp30, NKp46  
+Transcription factor: Eomes, Tbx21 (T-bet), Runx3
+-----
+Secreted: IFNG, TNF, CCL5, GZMB, GZMA, PRF1  
+Surface: NKG7, CD56, CD16, NKP46, CD94, KIR2DL1  
+Transcription factor: TBX21, EOMES, ZBTB32, RUNX3, GATA3
+-----
+Secreted: IFNG, TNF, PERFORIN, GRANZYME A, GRANZYME B  
+Surface: CD56, NKG2D, CD16, DNAM-1, KIR, LFA-1  
+Transcription factor: EOMES, T-bet, NFAT, RUNX3, ID2
+-----
+Secreted: IFNG, TNF, GZMB, PRF1, CCL5  
+Surface: NKG2D, CD56, CD16, KIR, NCR1  
+Transcription factor: EOMES, TBX21, RUNX3, ZBTB32
+-----
+Secreted: IFNG, TNF, GZMB, GZMA, PRF1, CCL5  
+Surface: CD56, CD16, NKG2D, KIR, CD94, NCR1  
+Transcription factor: TBX21, EOMES, RUNX3, PU.1
+-----
+                    Secreted: IFNG, TNF, GM-CSF, perforin, granzymes, IL-10
+                    Surface: CD56, CD16, NKG2D, KIRs, DNAM-1, NKp30, NKp46
+                    Transcription factor: EOMES, T-BET, PLZF, RUNX3
+-----
+                    Secreted: IFNG, TNF, GMCSF, CCL5, MIP1A  
+                    Surface: CD56, NKG2D, NKP30, CD16, KIR  
+                    Transcription factor: TBET, EOMES, HOBIT, RUNX3
+-----
+                    Secreted: IFNG, TNF, GZMB, PRF1, CCL5, GMCSF
+                    Surface: CD56, NKG2D, CD16, KIRs, DNAM-1, LFA-1
+                    Transcription factor: EOMES, T-bet, RUNX3, ID2
+-----
+Secreted: IFNG, TNF, GMCSF, CCL5, MIP1A, MIP1B  
+Surface: CD56, CD16, NKG2D, NKp30, NKp46, CD94, KIR  
+Transcription factor: Eomes, Tbx21, Runx3, Id2
+-----
+Secreted: IFNG, TNF, GZMB, GZMA, CCL4  
+Surface: CD56, NKG2D, CD16, NKP46, CD69  
+Transcription factor: TBX21, EOMES, RUNX3, ZBTB32, ID2
+-----
+Secreted: IFNG, TNF, GM-CSF, MIP-1A, MIP-1B, IL-10  
+Surface: CD56, NKG2D, NKp46, CD16, KIR, CD94  
+Transcription factor: EOMES, T-bet, PLZF, ID2, NFAT
+-----
+Secreted: IFNG, TNF, CCL5, GZMB, PRF1  
+Surface: CD56, NKG2D, CD16, CD94, KIR2DL1  
+Transcription factor: EOMES, TBX21, TCF7, RUNX3
+-----
+Secreted: IFNG, TNF, GM-CSF, CCL5, NKG2D ligand  
+Surface: CD56, CD16, NKG2A, KIR2DL1, NKp30, NKp46  
+Transcription factor: EOMES, T-bet, ID2, RORC
+-----
+Secreted: IFNG, TNF, GMCSF, CCL5, CCL3  
+Surface: CD56, NKG2D, CD16, NKp30, NKp46, CD94  
+Transcription factor: T-bet, Eomes, NFAT, GATA3
+-----
+Secreted: IFNG, TNF, PRF1, GZMB, CCL5  
+Surface: CD56, CD16, NKG2D, NKP46, CD94  
+Transcription factor: EOMES, T-BET, RUNX3, PLZF
+-----
+                    Secreted: IFNG, TNF, GZMB, PRF1, CCL5, GM-CSF  
+                    Surface: CD56, CD16, NKG2D, KIR, CD94, NKp30, NKp46  
+                    Transcription factor: T-bet, Eomes, NFAT, Runx3
+-----
+                    Secreted: IFNG, TNF, GZMB, PRF1, CCL5  
+                    Surface: NKG7, CD56, CD16, KIR, NCR1  
+                    Transcription factor: T-bet, Eomes, NFATc1, RUNX3  
+-----
+Secreted: IFNG, TNF, CCL5, GZMB, PRF1  
+Surface: CD56, CD16, NKG2D, NKP46, KIR  
+Transcription factor: EOMES, TBET, RUNX3, ID2
+-----
+Secreted: IFNG, TNF, CCL5, GZMB, GZMA, PRF1   
+Surface: CD56, CD16, NKG2D, NKP46, CD158A, KLRG1  
+Transcription factor: EOMES, T-bet, RUNX3, ZEB2  
+-----
+                    Secreted: IFNG, TNF, GM-CSF, MIP-1A, CCL5  
+                    Surface: CD56, CD16, NKG2D, KIR, CD94, NKP30  
+                    Transcription factor: EOMES, T-bet, RUNX3, NFIL3
+-----
+Secreted: IFNG, TNF, GZMB, GZMA, CCL5  
+Surface: NKG2D, CD56, CD16, NKP30, NKP46, CD94  
+Transcription factor: EOMES, T-bet, PLZF, RUNX3
+-----
+Secreted: IFNG, TNF, perforin, granzyme B  
+Surface: CD56, NKG2D, CD16, CD69, NKp46, CD158a  
+Transcription factor: T-bet, Eomes, STAT4, RUNX3
+-----
+Secreted: IFNG, TNF, GZMB, PRF1, CCL5  
+Surface: CD56, CD16, NKG2D, NKp46, CD94  
+Transcription factor: EOMES, TBX21, RUNX3
+-----
+Secreted: IFNG, TNF, GZMB, GZMA, CCL5  
+Surface: NKG2D, CD16, CD56, NKp46, KIRs  
+Transcription factor: TBX21, Eomes, TCF7, RUNX3
+-----
+                    Secreted: IFNG, TNF, GZMB, PRF1, CCL5, MIP1A, GM-CSF, IL10
+                    Surface: NKG2D, CD56, CD16, KIR, CD94, DNAM1, LAG3, TIGIT
+                    Transcription factor: TBET, EOMES, PLZF, RORC, GATA3
+-----
+Secreted: IFNG, TNF, CCL5, granzyme A, granzyme B, perforin  
+Surface: CD56, NCR1, CD16, NKG2D, KIRs, CD69  
+Transcription factor: EOMES, TBX21, RUNX3, ZBTB32
+-----
+                    Secreted: IFNG, TNF, CCL5, GZMB, PRF1, GM-CSF  
+                    Surface: CD56, CD16, NKG2D, NKp30, NKp46, CD94  
+                    Transcription factor: Eomes, Tbx21, Runx3, Id2
+-----
+Secreted: IFNG, GZMB, PRF1, TNF, CCL5  
+Surface: CD56, CD16, NKG2D, KIR, CD69, CD94  
+Transcription factor: TBX21, EOMES, RUNX3, ZBTB32
+-----
+                    Secreted: IFNG, TNF, PERFORIN, GRANZYME A, GRANZYME B
+                    Surface: CD56, CD16, NKG2D, NKP30, NKP46, CD69, CD94
+                    Transcription factor: T-bet, Eomes, RUNX3, PLZF
+-----
+                    Secreted: IFNG, TNF, GZMB, PRF1, CCL5, GM-CSF
+                    Surface: CD56, CD16, NKG2D, NKp30, NKp46, CD94
+                    Transcription factor: T-bet, Eomes, NFAT, Runx3
+-----
+                    Secreted: IFNG, TNF, PRF1, GZMB, CCL5, CCL3
+                    Surface: CD56, CD16, NKG2D, NKp30, NKp46, KIR2DL1, KIR3DL1
+                    Transcription factor: TBX21, EOMES, RUNX3
+-----
+Secreted: IFNG, TNF, GM-CSF, MIP-1A, MIP-1B, Perforin, Granzymes  
+Surface: CD56, NKG2D, CD16, KIR, CD94, NKp30, NKp46, CD69  
+Transcription factor: Eomes, T-bet, PLZF, NFIL3
+-----
+Secreted: IFNG, TNF, GZMB, PRF1, CCL5  
+Surface: NKG7, CD16, CD56, NKp30, NKp46, CD69  
+Transcription factor: T-bet, Eomes, NFAT, Runx3
+-----
+Secreted: IFNG, TNF, GM-CSF, MIP-1A, MIP-1B  
+Surface: CD56, CD16, NKG2D, KIR, DNAM-1, CD94, NKp30, NKp46  
+Transcription factor: T-bet, Eomes, Runx3, NFAT, GATA3  
+-----
+Secreted: IFNG, TNF, GM-CSF, perforin, granzymes  
+Surface: NKG2D, CD56, CD16, NKp30, NKp46  
+Transcription factor: T-bet, Eomes, ZEB2
+-----
+Secreted: IFNG, TNF, CCL5, GMCSF  
+Surface: NKG2D, CD56, CD16, NKp46, KIR, CD94  
+Transcription factor: EOMES, TBET, RUNX3, ID2
+-----
+Secreted: IFNG, TNF, GM-CSF, CCL5, MIP-1A  
+Surface: CD56, CD16, NKG2D, NKp30, NKp46, 2B4, KIR  
+Transcription factor: EOMES, TBX21, PRDM1, RUNX3
+-----
+                    Secreted: IFNG, TNF, GMCSF, CCL5, MIP1A, MIP1B
+                    Surface: CD56, CD16, NKG2D, NKP30, NKP46, KIR2DL1, KIR2DS1
+                    Transcription factor: EOMES, TBET, GATA3, RUNX3
+-----
+                    Secreted: IFNG, TNF, GM-CSF, perforin, granzymes  
+                    Surface: CD56, NKG2D, CD16, KIR, DNAM-1  
+                    Transcription factor: EOMES, T-bet, NFAT, Runx3  
+-----
+Secreted: IFNG, TNF, GZMB, PRF1, CCL5  
+Surface: CD56, CD16, NKG2D, KIR, NKp46  
+Transcription factor: EOMES, T-bet, NFAT, RUNX3
+-----
+Sure! Here’s the list of marker genes associated with the functional roles of NK cells:
+
+                    Secreted: IFNG, TNF, IL10, CCL5, GM-CSF
+                    Surface: NCR1, NKG2D, CD56, CD16, KIR, CD94
+                    Transcription factor: Eomes, T-bet, Id2, NFIL3
+-----
+Secreted: IFNG, TNF, CCL5, GMCSF, GZMB, PRF1  
+Surface: CD56, CD16, NKG2D, NKp46, KIR2DL1, CD94  
+Transcription factor: EOMES, TBX21, RUNX3, ZBTB32
+-----
+Secreted: IFNG, TNF, GZMB, GZMA, CCL5  
+Surface: NKG7, CD56, CD16, KIR, CD94  
+Transcription factor: EOMES, TBX21, TCF7, RUNX3
+-----
+Secreted: IFNG, TNF, GZMB, CCL5, PRF1  
+Surface: NKG7, CD56, CD16, KLRD1, NKG2D  
+Transcription factor: EOMES, T-BET, RUNX3, ID2, PU.1
+-----
+Secreted: IFNG, TNF, PRF1, GZMB, CCL5  
+Surface: CD16, CD56, NKG2D, NKp46, KIR, LAG3  
+Transcription factor: TBX21, EOMES, RUNX3, STAT4
+-----
+Secreted: IFNG, TNF, CCL5  
+Surface: NKG7, CD16, CD56, KLRD1, KLRK1  
+Transcription factor: GATA3, T-bet (TBX21), Eomes (EOMES)
+-----
+Secreted: IFNG, TNF, CCL5, granzyme A, granzyme B, perforin  
+Surface: CD56, CD16, NKG2D, NKp30, NKp46, CD69, CD158a, CD158b  
+Transcription factor: T-bet, Eomes, Runx3, NFAT, ZEB2
+-----
+Secreted: IFNG, TNF, CCL5, GMCSF, MMP9  
+Surface: CD56, CD16, NKG2D, KIR, DNAM1, CD94  
+Transcription factor: TBX21, EOMES, RORC, GATA3, NFATC1
+-----
+Secreted: IFNG, TNF, GZMB, GZMA, CCL5, CCL3  
+Surface: CD56, NKG2D, CD16, CD94, KIR2DL1, NKG2A  
+Transcription factor: T-bet, Eomes, Runx3, NFATc1, LRF
+-----
+                    Secreted: IFNG, TNF, CCL5, GZMB, PRF1, GM-CSF
+                    Surface: CD56, CD16, NKG2D, NKP46, KIR, CD69, DNAM-1
+                    Transcription factor: Eomes, T-bet, NFAT, Blimp-1, Runx3
+-----
+Secreted: IFNG, TNF, CCL5, granzyme B, perforin  
+Surface: CD56, CD16, NKG2D, NKp46, KIR  
+Transcription factor: EOMES, T-bet, RUNX3, ID2
+-----
+                    Secreted: IFNG, TNF, CCL5, GM-CSF, MIP-1α
+                    Surface: CD16, NKG2D, CD56, NKp30, NKp46, CD94
+                    Transcription factor: EOMES, T-BET, PLZF, RUNX3
+-----
+                    Secreted: IFNG, TNF, GZMB, PRF1, CCL5  
+                    Surface: CD56, CD16, NKG2D, KIR, CD94  
+                    Transcription factor: EOMES, T-bet, RUNX3
+-----
+                    Secreted: IFNG, TNF, GM-CSF, perforin, granzymes, IL-10, IL-13
+                    Surface: CD56, CD16, NKG2D, KIR, CD94, NKp30, NKp44
+                    Transcription factor: T-bet, Eomes, Hobit, NFAT, Runx3
+-----
+                    Secreted: IFNG, TNF, GM-CSF, MIP-1α, MIP-1β, perforin, granzyme B
+                    Surface: CD56, NKG2D, CD16, NKp30, NKp44, KIRs, CD69
+                    Transcription factor: Eomes, T-bet, ID2, Runx3
+-----
+                    Secreted: IFNG, TNF, perforin, granzyme A, granzyme B, IL-10, IL-15  
+                    Surface: CD56, CD16, NKG2D, NKp30, NKp46, CD94, KIR  
+                    Transcription factor: EOMES, T-bet, PLZF, ID2
+-----
+Secreted: IFNG, TNF, CCL4, CCL5, GZMB, PRF1  
+Surface: NKG2D, CD16, CD56, NKp46, KLRK1, CD158a  
+Transcription factor: EOMES, T-bet, NFATc1, Id2
+-----
+Secreted: IFNG, TNF, GM-CSF, perforin, granzymes  
+Surface: CD56, NKG2D, CD16, NKp30, NKp46, CD94  
+Transcription factor: EOMES, T-bet, RUNX3
+-----
+                    Secreted: IFNG, TNF, GZMB, GZMA, PRF1, CCL5  
+                    Surface: CD56, CD16, NKG2D, NKp46, KIR, CD94  
+                    Transcription factor: Eomes, T-bet, NFAT, Id2, Runx3  
+-----
+                    Secreted: IFNG, TNF, perforin, granzymes, CCL5  
+                    Surface: CD56, CD16, NKG2D, NKp30, NKp46, CD94  
+                    Transcription factor: T-bet, Eomes, NFAT, GATA3  
+-----
+Secreted: IFNG, TNF, GZMB, PRF1, CCL5  
+Surface: CD16, CD56, NKG2D, NKp30, NKp46, KIRs  
+Transcription factor: EOMES, T-bet, RUNX3, ZNF683  
+-----
+Secreted: IFNG, TNF, GM-CSF, CCL5, MIP-1α  
+Surface: CD56, NKG2D, CD16, NKp46, KIR, CD247  
+Transcription factor: Eomes, T-bet, GATA3, Id2
+-----
+Secreted: IFNG, TNF, GZMB, GZMA, PRF1, CCL5  
+Surface: CD56, NKG2D, NKP46, CD16, KIR, CD158  
+Transcription factor: EOMES, TBX21, RUNX3, TCF7, NR4A1
+-----
+                    Secreted: IFNG, TNF, CCL5, GM-CSF, MIP-1A, MIP-1B
+                    Surface: CD56, NKG2D, CD16, KIR, DNAM-1, CD94
+                    Transcription factor: T-bet, Eomes, Runx3, NFAT, GATA3
+-----
+Secreted: IFNG, TNF, GM-CSF, CCL5, granzyme A, granzyme B, perforin  
+Surface: CD56, CD16, NKG2D, KIR, CD94, NKp30, NKp46  
+Transcription factor: EOMES, T-bet, PLZF, RUNX3, NFAT, IRF2
+-----
+Secreted: IFNG, TNF, GMCSF, CCL5, PRF1  
+Surface: CD56, CD16, NKG2D, NKp30, NKp46, KIRs  
+Transcription factor: EOMES, TBET, RUNX3, GATA3
+-----
+                    Secreted: IFNG, TNF, PERFORIN, GRANZYME B
+                    Surface: CD56, CD16, NKG2D, NKp30, NKp46, CD69
+                    Transcription factor: EOMES, T-bet, ID2
+-----
+Secreted: IFNG, TNF, CCL5, granzyme A, perforin  
+Surface: CD56, NKG2D, CD16, KIR, CD94  
+Transcription factor: EOMES, TBET, RORC
+-----
+                    Secreted: IFNG, TNF, CCL5, granzyme A, granzyme B, perforin
+                    Surface: NKG2D, CD56, CD16, DNAM-1, KIRs, CD94
+                    Transcription factor: T-bet, Eomes, NFAT, GATA3
+-----
+                    Secreted: IFNG, TNF, CCL5, GZMA, GZMB, PRF1
+                    Surface: CD56, CD16, NKG2D, NKp46, CD69, KLRG1
+                    Transcription factor: EOMES, T-bet, PLZF
+-----
+                    Secreted: IFNG, TNF, CCL5, GZMB, PRF1
+                    Surface: NKG7, CD16, CD56, KIR2DL1, CD69
+                    Transcription factor: TBX21, EOMES, RUNX3
+-----
+                    Secreted: IFNG, TNF, GZMB, PRF1, CCL5, MIP1A
+                    Surface: CD56, NKG2D, CD16, NKp30, NKp46, KIRs
+                    Transcription factor: Eomes, T-bet, GATA3, Runx3
+-----
+Secreted: IFNG, TNF, GZMB, PRF1, CCL5  
+Surface: CD56, CD16, NKG2D, KIR, CD94  
+Transcription factor: EOMES, T-BET, RUNX3, NFATC1
+-----
+                    Secreted: IFNG, TNF, PRF1, GZMB, CCL5, CTLA4  
+                    Surface: NCR1, CD56, NKG2D, CD16, CD69, KIR, CD94  
+                    Transcription factor: Eomes, Tbx21, Runx3, ID2, NFATc1
+-----
+Secreted: IFNG, TNF, CCL5, GZMB, GZMA, PRF1  
+Surface: CD56, NKG2D, CD16, NKP30, NKP46, DNAM-1  
+Transcription factor: EOMES, T-bet, RUNX3, ID2, ZEB2
+-----
+Secreted: IFNG, TNF, CCL5, GZMB, GZMA, PRF1  
+Surface: CD56, NKG2D, CD16, KIR, CD94, NKp46  
+Transcription factor: Eomes, T-bet, NFATC1, RUNX3
+-----
+                    Secreted: IFNG, TNF, CCL5, Granzyme A, Granzyme B, Perforin
+                    Surface: NKG2D, CD16, CD56, CD94, KIR, CD158a
+                    Transcription factor: Eomes, T-bet, PLZF, RUNX3
+-----
+Secreted: IFNG, TNF, GM-CSF, CCL5, MIP-1α  
+Surface: CD56, NKG2D, NKp46, CD16, CD94  
+Transcription factor: EOMES, T-bet, ID2, PLZF

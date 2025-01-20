@@ -1,0 +1,109 @@
+gene,freq,component,cell,role
+IL6,101,secreted,Cancer-Associated Fibroblasts (CAFs),Immunosuppressive
+TGFBI,51,secreted,Cancer-Associated Fibroblasts (CAFs),Immunosuppressive
+FGF2,98,secreted,Cancer-Associated Fibroblasts (CAFs),Immunosuppressive
+CXCL12,90,secreted,Cancer-Associated Fibroblasts (CAFs),Immunosuppressive
+MMP2,72,secreted,Cancer-Associated Fibroblasts (CAFs),Immunosuppressive
+VEGFA,65,secreted,Cancer-Associated Fibroblasts (CAFs),Immunosuppressive
+MMP9,56,secreted,Cancer-Associated Fibroblasts (CAFs),Immunosuppressive
+FAP,95,surface,Cancer-Associated Fibroblasts (CAFs),Immunosuppressive
+THY1,101,surface,Cancer-Associated Fibroblasts (CAFs),Immunosuppressive
+CD44,101,surface,Cancer-Associated Fibroblasts (CAFs),Immunosuppressive
+PDGFRA,75,surface,Cancer-Associated Fibroblasts (CAFs),Immunosuppressive
+ACTA2,64,surface,Cancer-Associated Fibroblasts (CAFs),Immunosuppressive
+SNAI1,73,transfactor,Cancer-Associated Fibroblasts (CAFs),Immunosuppressive
+TWIST1,82,transfactor,Cancer-Associated Fibroblasts (CAFs),Immunosuppressive
+YAP1,62,transfactor,Cancer-Associated Fibroblasts (CAFs),Immunosuppressive
+ZEB1,69,transfactor,Cancer-Associated Fibroblasts (CAFs),Immunosuppressive
+GZMB,101,secreted,CD8+ T cells,Immunostimulatory
+CCL5,74,secreted,CD8+ T cells,Immunostimulatory
+IFNG,101,secreted,CD8+ T cells,Immunostimulatory
+PRF1,50,secreted,CD8+ T cells,Immunostimulatory
+TNF,93,secreted,CD8+ T cells,Immunostimulatory
+CD8A,101,surface,CD8+ T cells,Immunostimulatory
+CD8B,85,surface,CD8+ T cells,Immunostimulatory
+CD44,76,surface,CD8+ T cells,Immunostimulatory
+PDCD1,83,surface,CD8+ T cells,Immunostimulatory
+CTLA4,55,surface,CD8+ T cells,Immunostimulatory
+TBX21,99,transfactor,CD8+ T cells,Immunostimulatory
+EOMES,101,transfactor,CD8+ T cells,Immunostimulatory
+RUNX3,101,transfactor,CD8+ T cells,Immunostimulatory
+IL1B,97,secreted,M1 macrophages,Immunostimulatory
+TNF,101,secreted,M1 macrophages,Immunostimulatory
+IL6,97,secreted,M1 macrophages,Immunostimulatory
+IL12A,65,secreted,M1 macrophages,Immunostimulatory
+CCL2,98,secreted,M1 macrophages,Immunostimulatory
+CCL5,55,secreted,M1 macrophages,Immunostimulatory
+NOS2,68,secreted,M1 macrophages,Immunostimulatory
+CXCL10,59,secreted,M1 macrophages,Immunostimulatory
+CD80,101,surface,M1 macrophages,Immunostimulatory
+CD86,101,surface,M1 macrophages,Immunostimulatory
+HLA-DRA,88,surface,M1 macrophages,Immunostimulatory
+FCGR1A,96,surface,M1 macrophages,Immunostimulatory
+CD274,55,surface,M1 macrophages,Immunostimulatory
+CD40,56,surface,M1 macrophages,Immunostimulatory
+STAT1,101,transfactor,M1 macrophages,Immunostimulatory
+RELA,97,transfactor,M1 macrophages,Immunostimulatory
+IRF5,97,transfactor,M1 macrophages,Immunostimulatory
+IL10,98,secreted,M2 macrophages,Immunosuppressive
+CCL17,63,secreted,M2 macrophages,Immunosuppressive
+CCL22,93,secreted,M2 macrophages,Immunosuppressive
+VEGFA,66,secreted,M2 macrophages,Immunosuppressive
+MMP9,81,secreted,M2 macrophages,Immunosuppressive
+ARG1,50,secreted,M2 macrophages,Immunosuppressive
+MRC1,101,surface,M2 macrophages,Immunosuppressive
+CD163,101,surface,M2 macrophages,Immunosuppressive
+CD274,75,surface,M2 macrophages,Immunosuppressive
+CLEC10A,73,surface,M2 macrophages,Immunosuppressive
+STAT6,101,transfactor,M2 macrophages,Immunosuppressive
+PPARG,101,transfactor,M2 macrophages,Immunosuppressive
+KLF4,69,transfactor,M2 macrophages,Immunosuppressive
+CEBPB,53,transfactor,M2 macrophages,Immunosuppressive
+IRF4,70,transfactor,M2 macrophages,Immunosuppressive
+IL10,84,secreted,Myeloid-Derived Suppressor Cells (MDSC),Immunosuppressive
+TGFB1,86,secreted,Myeloid-Derived Suppressor Cells (MDSC),Immunosuppressive
+ARG1,71,secreted,Myeloid-Derived Suppressor Cells (MDSC),Immunosuppressive
+CCL2,58,secreted,Myeloid-Derived Suppressor Cells (MDSC),Immunosuppressive
+ITGAM,101,surface,Myeloid-Derived Suppressor Cells (MDSC),Immunosuppressive
+CD33,83,surface,Myeloid-Derived Suppressor Cells (MDSC),Immunosuppressive
+HLA-DRA,61,surface,Myeloid-Derived Suppressor Cells (MDSC),Immunosuppressive
+CD274,91,surface,Myeloid-Derived Suppressor Cells (MDSC),Immunosuppressive
+CD14,57,surface,Myeloid-Derived Suppressor Cells (MDSC),Immunosuppressive
+STAT3,101,transfactor,Myeloid-Derived Suppressor Cells (MDSC),Immunosuppressive
+RELB,58,transfactor,Myeloid-Derived Suppressor Cells (MDSC),Immunosuppressive
+IRF8,89,transfactor,Myeloid-Derived Suppressor Cells (MDSC),Immunosuppressive
+CEBPB,53,transfactor,Myeloid-Derived Suppressor Cells (MDSC),Immunosuppressive
+IFNG,101,secreted,NK cells,Immunostimulatory
+TNF,101,secreted,NK cells,Immunostimulatory
+GZMB,54,secreted,NK cells,Immunostimulatory
+CCL5,81,secreted,NK cells,Immunostimulatory
+KLRK1,93,surface,NK cells,Immunostimulatory
+NCAM1,101,surface,NK cells,Immunostimulatory
+FCGR3A,100,surface,NK cells,Immunostimulatory
+NCR1,61,surface,NK cells,Immunostimulatory
+KLRD1,54,surface,NK cells,Immunostimulatory
+EOMES,99,transfactor,NK cells,Immunostimulatory
+TBX21,64,transfactor,NK cells,Immunostimulatory
+RUNX3,80,transfactor,NK cells,Immunostimulatory
+IL10,83,secreted,Regulatory T cells (Tregs),Immunosuppressive
+TGFB1,82,secreted,Regulatory T cells (Tregs),Immunosuppressive
+IL2RA,101,surface,Regulatory T cells (Tregs),Immunosuppressive
+CTLA4,59,surface,Regulatory T cells (Tregs),Immunosuppressive
+FOXP3,99,surface,Regulatory T cells (Tregs),Immunosuppressive
+TNFRSF18,60,surface,Regulatory T cells (Tregs),Immunosuppressive
+FOXP3,100,transfactor,Regulatory T cells (Tregs),Immunosuppressive
+RORC,67,transfactor,Regulatory T cells (Tregs),Immunosuppressive
+IFNG,101,secreted,Th1 cells,Immunostimulatory
+TNF,101,secreted,Th1 cells,Immunostimulatory
+IL2,100,secreted,Th1 cells,Immunostimulatory
+CCL5,70,secreted,Th1 cells,Immunostimulatory
+CD4,101,surface,Th1 cells,Immunostimulatory
+CXCR3,91,surface,Th1 cells,Immunostimulatory
+PDCD1,97,surface,Th1 cells,Immunostimulatory
+LAG3,64,surface,Th1 cells,Immunostimulatory
+TBX21,70,transfactor,Th1 cells,Immunostimulatory
+STAT4,101,transfactor,Th1 cells,Immunostimulatory
+HLA-DRB1,88,surface,M1 macrophages,Immunostimulatory
+RELB,97,transfactor,M1 macrophages,Immunostimulatory
+RELA,58,transfactor,Myeloid-Derived Suppressor Cells (MDSC),Immunosuppressive
+HLA-DRB1,61,surface,Myeloid-Derived Suppressor Cells (MDSC),Immunosuppressive

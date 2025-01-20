@@ -1,0 +1,407 @@
+Secreted: IL10, TGFβ, IL35  
+Surface: CD25, CTLA4, FoxP3  
+Transcription factor: FOXP3, RORC, GATA3
+-----
+                    Secreted: IL10, TGFbeta, CTLA4  
+                    Surface: CD25, CD4, FoxP3  
+                    Transcription factor: FOXP3, RUNX1, STAT5
+-----
+Secreted: IL10, TGFβ, IL35  
+Surface: CD25, CTLA4, FoxP3  
+Transcription factor: FOXP3, RORC, NFAT1, IRF4
+-----
+                    Secreted: IL10, TGFb, CTLA4  
+                    Surface: CD25, CD4, FOXP3  
+                    Transcription factor: FOXP3, RORgt, BATF
+-----
+Secreted: IL10, TGFβ, CTLA4  
+Surface: CD25, FOXP3, GITR, CD39, CD73  
+Transcription factor: FOXP3, RUNX1, RORγt
+-----
+                    Secreted: IL10, TGFβ, CTLA4
+                    Surface: CD25, FOXP3, CD127
+                    Transcription factor: FOXP3, STAT5, GATA3
+-----
+                    Secreted: IL10, TGFb, CTLA4, IL35
+                    Surface: CD25, CD4, FOXP3, GITR, CCR4, CD39, CD73
+                    Transcription factor: FOXP3, RORgt, STAT5
+-----
+Secreted: IL10, TGFβ, CTLA4  
+Surface: CD25, FOXP3, GITR, CD4, PD-1  
+Transcription factor: FOXP3, RORγt, STAT5  
+-----
+Secreted: IL10, TGFβ, CTLA4  
+Surface: CD25, FOXP3, CD4, GITR, PD-1  
+Transcription factor: FOXP3, RORγt, IRF4
+-----
+Secreted: IL10, TGFβ, CTLA4  
+Surface: CD25, FOXP3, GITR, PD-1, CD127  
+Transcription factor: FOXP3, RORγt, RUNX1
+-----
+                    Secreted: IL-10, TGFβ, IL-35  
+                    Surface: CD4, CD25, CTLA4, FoxP3, GITR  
+                    Transcription factor: FOXP3, RORγt, Stat5
+-----
+                    Secreted: IL10, TGFβ, CTLA4  
+                    Surface: CD25, Foxp3, GITR  
+                    Transcription factor: Foxp3, RORγt, Helios
+-----
+                    Secreted: IL10, TGFB1, CCL4, CCL22
+                    Surface: CD25, FOXP3, CTLA4, GITR, PD-1, LAG3
+                    Transcription factor: FOXP3, RORC, RUNX1
+-----
+                    Secreted: IL-10, TGFβ, CTLA4  
+                    Surface: CD25, FOXP3, GITR, ICOS, PD-1  
+                    Transcription factor: FOXP3, RORγt, NFAT
+-----
+                    Secreted: IL10, TGFβ, IL35  
+                    Surface: CD4, CD25, CTLA4, FOXP3, GITR  
+                    Transcription factor: FOXP3, RORγt, IRF4, NFAT, STAT5
+-----
+                    Secreted: IL-10, TGFβ, IL-35  
+                    Surface: CD25, CTLA4, FOXP3, GITR  
+                    Transcription factor: FOXP3, RORγt, STAT5  
+-----
+Sure! Here’s the organized list of marker genes associated with Regulatory T cells (Tregs):
+
+                    Secreted: IL2, IL10, TGFβ
+                    Surface: CD25, CTLA4, FoxP3
+                    Transcription factor: FOXP3, RORγt, Helios
+-----
+                    Secreted: IL10, TGFb, IL35
+                    Surface: CD25, CTLA4, FoxP3, GITR
+                    Transcription factor: FOXP3, Helios, RORgt, Ets1
+-----
+                    Secreted: IL10, TGFBR2, CTLA4
+                    Surface: CD25, FOXP3, GITR
+                    Transcription factor: FOXP3, RORC, ID3
+-----
+                    Secreted: IL10, TGFβ, IL35  
+                    Surface: CD25, FOXP3, CTLA4, GITR, PD-1  
+                    Transcription factor: FOXP3, RORγt, STAT5
+-----
+Secreted: IL10, TGFβ, CTLA4  
+Surface: CD25, FOXP3, CD4, GITR, PD-1  
+Transcription factor: FOXP3, RORγt, NFAT, STAT5
+-----
+Secreted: IL-10, TGFβ, CTLA4  
+Surface: CD4, CD25, FOXP3, GITR, PD-1  
+Transcription factor: FOXP3, RORγt, IRF4
+-----
+                    Secreted: IL10, TGFβ, IL35  
+                    Surface: CD25, CTLA4, FOXP3  
+                    Transcription factor: FOXP3, RORγt, Helios  
+-----
+                    Secreted: IL2, TGFB1, IL10, CTLA4  
+                    Surface: CD25, FOXP3, CD4, GITR  
+                    Transcription factor: FOXP3, RORC, STAT5
+-----
+Secreted: IL10, TGFβ, IL35  
+Surface: CD25, CTLA4, FOXP3, GITR, PD-1  
+Transcription factor: FOXP3, RORγt, Eos
+-----
+                    Secreted: IL10, TGFβ, IL35  
+                    Surface: CD25, Foxp3, CTLA4, GITR  
+                    Transcription factor: FOXP3, RORC, IRF4, STAT5
+-----
+Secreted: IL10, TGFβ1, CCL22  
+Surface: CD25, CTLA4, GITR, PD-1, CD127  
+Transcription factor: FOXP3, RORγt, IKZF2
+-----
+                    Secreted: IL10, TGFβ, IL35  
+                    Surface: CD25, CTLA4, FoxP3  
+                    Transcription factor: FOXP3, RORγt, STAT5
+-----
+                    Secreted: IL10, TGFb, CTLA4
+                    Surface: CD25, FOXP3, CD4, GITR, CD103
+                    Transcription factor: FOXP3, RORgt, NFAT, STAT5
+-----
+Secreted: IL10, TGFβ, IL35  
+Surface: CD25, CTLA4, FoxP3  
+Transcription factor: FOXP3, Helios, IRF4  
+-----
+Secreted: IL10, TGFBI, CTLA4  
+Surface: CD25, CD4, FOXP3  
+Transcription factor: FOXP3, RORC, BATF, IRF4
+-----
+                    Secreted: IL10, TGFβ, IL35  
+                    Surface: CD25, CTLA4, FOXP3  
+                    Transcription factor: FOXP3, RORγt, GATA3  
+-----
+                    Secreted: IL-10, TGFβ, CTLA4  
+                    Surface: CD25, FoxP3, GITR, CD127  
+                    Transcription factor: FoxP3, RORγt, Helios
+-----
+                    Secreted: IL10, TGFβ, CTLA4
+                    Surface: CD25, FOXP3, GITR, CD127
+                    Transcription factor: FOXP3, RORγt, IRF4
+-----
+                    Secreted: IL2, IL10, TGFβ  
+                    Surface: CD4, CD25, FOXP3, CTLA4, GITR  
+                    Transcription factor: FOXP3, RORγt, STAT5, NFAT
+-----
+Secreted: IL10, TGFβ, IL35  
+Surface: CD25, CTLA4, Foxp3, GITR, PD-1  
+Transcription factor: Foxp3, RORγt, Helios, IKZF2
+-----
+Secreted: IL10, TGFβ, CTLA4  
+Surface: CD25, FOXP3, CD4, GITR, PD-1  
+Transcription factor: FOXP3, RORγt, STAT5
+-----
+Secreted: IL10, TGFβ, CTLA4  
+Surface: CD25, FOXP3, GITR, CD39, CD73  
+Transcription factor: FOXP3, RORγt, BATF, IRF4
+-----
+Secreted: IL10, TGFβ, IL35  
+Surface: CD25, CTLA4, FOXP3  
+Transcription factor: FOXP3, RORγt, Helios
+-----
+                    Secreted: IL10, TGFβ, IL35  
+                    Surface: CD25, FoxP3, CTLA4, GITR, PD-1  
+                    Transcription factor: FOXP3, RORγt, STAT5  
+-----
+                    Secreted: IL10, TGFβ, IL35  
+                    Surface: CD25, Foxp3, CTLA4  
+                    Transcription factor: FOXP3, RUNX1, BATF  
+-----
+Secreted: IL10, TGFβ, CTLA4  
+Surface: CD25, FOXP3, CD4, GITR, PD-1, LAG3  
+Transcription factor: FOXP3, RORγt, Helios, IRF4
+-----
+Secreted: IL2, IL10, TGFBI  
+Surface: CD4, CD25, FOXP3, CTLA4, GITR, PD-1  
+Transcription factor: FOXP3, RORC, BATF, IRF4
+-----
+Secreted: IL10, TGFβ, CTLA4  
+Surface: CD25, FOXP3, CD4, GITR, PD-1  
+Transcription factor: FOXP3, RORγt, NFAT, STAT5
+-----
+                    Secreted: IL10, TGFBI, CCL22, IL35
+                    Surface: CD25, FOXP3, CTLA4, GITR, PD-1, CD39
+                    Transcription factor: FOXP3, RORC, BATF, IRF4, NFAT1
+-----
+                    Secreted: IL2, TGFβ, IL10, CTLA4  
+                    Surface: CD25, Foxp3, CD4, GITR, PD-1  
+                    Transcription factor: Foxp3, RORγt, Eos, Helios  
+-----
+Secreted: IL10, TGFb, CTLA4  
+Surface: CD25, CD4, FOXP3  
+Transcription factor: FOXP3, RUNX1, ID3
+-----
+Secreted: IL10, TGFβ, CTLA4  
+Surface: CD25, FOXP3, CD4, GITR  
+Transcription factor: FOXP3, RORγt, Helios
+-----
+                    Secreted: IL-10, TGFβ, IL-35  
+                    Surface: CD25, CTLA4, FoxP3  
+                    Transcription factor: FOXP3, RORγt, Helios
+-----
+Secreted: IL10, TGFβ, CTLA4  
+Surface: CD25, FOXP3, CD4, GITR  
+Transcription factor: FOXP3, RORγt, Helios
+-----
+                    Secreted: IL10, TGFb, CTLA4  
+                    Surface: CD25, FOXP3, CD4, GITR, CTLA4  
+                    Transcription factor: FOXP3, RORct, Helios, IKZF2  
+-----
+                    Secreted: IL10, TGFβ, IL35  
+                    Surface: CD25, FOXP3, CTLA4, GITR, PD-1, CD39  
+                    Transcription factor: FOXP3, RORγt, IRF4, NFAT, RUNX1
+-----
+                    Secreted: IL2, TGFβ, IL10, CTLA4  
+                    Surface: FOXP3, CD25, CD4, GITR, PD-1, CTLA4  
+                    Transcription factor: FOXP3, RORγt, Helios, Eos
+-----
+                    Secreted: IL10, TGFβ, CTLA4
+                    Surface: CD25, FOXP3, PD-1, CD4
+                    Transcription factor: FOXP3, RORγt, Helios
+-----
+Secreted: IL10, TGFβ, CTLA4  
+Surface: CD25, CD4, FOXP3  
+Transcription factor: FOXP3, RORγt, STAT5  
+-----
+                    Secreted: IL10, TGFβ, CTLA4  
+                    Surface: CD25, CD4, FoxP3  
+                    Transcription factor: FOXP3, RORC, BATF 
+-----
+                    Secreted: IL10, TGFbeta, IL35  
+                    Surface: CD25, CTLA4, FoxP3  
+                    Transcription factor: FOXP3, RORgt, Helios  
+-----
+                    Secreted: IL-10, TGFβ, IL-35
+                    Surface: CD25, CTLA4, FoxP3, CD127, GITR
+                    Transcription factor: FoxP3, RORγt, Helios
+-----
+                    Secreted: IL10, TGFβ, IL35
+                    Surface: CD25, FoxP3, CTLA4, GITR, PD-1
+                    Transcription factor: FoxP3, RORγt, STAT5
+-----
+                    Secreted: IL2, IL10, TGFβ
+                    Surface: CD25, CTLA4, FOXP3, GITR, PD-1
+                    Transcription factor: FOXP3, RORγt, Helios, IRF4
+-----
+Secreted: IL10, TGFβ, IL35  
+Surface: CD25, CTLA4, FOXP3, GITR, CD39, PD-1  
+Transcription factor: FOXP3, RORγt, IRF4
+-----
+                    Secreted: IL10, TGFβ, IL35  
+                    Surface: CD25, Foxp3, CTLA4, GITR, PD-1, CD127  
+                    Transcription factor: Foxp3, RORγt, Helios, Eos  
+-----
+                    Secreted: IL10, TGFβ, CTLA4  
+                    Surface: CD25, FOXP3, CD4, GITR, LAG3  
+                    Transcription factor: FOXP3, RORγt, STAT5  
+-----
+                    Secreted: IL10, TGFβ, IL35  
+                    Surface: CD25, CTLA4, FOXP3, GITR, LAG3  
+                    Transcription factor: FOXP3, RORγt, Helios
+-----
+Secreted: IL10, TGFβ, CTLA4  
+Surface: CD25, FOXP3, CD4, GITR, PD-1  
+Transcription factor: FOXP3, RORγt, Runx1  
+-----
+                    Secreted: IL2, IL10, TGFβ
+                    Surface: CD4, CD25, Foxp3, CTLA4, PD-1
+                    Transcription factor: Foxp3, RORγt, Stat5, Helios
+-----
+Secreted: IL10, TGFβ, CCL22  
+Surface: CD25, CTLA4, FOXP3  
+Transcription factor: FOXP3, RORγt, IRF4
+-----
+                    Secreted: IL10, TGFβ, CTLA4
+                    Surface: CD25, FOXP3, CD4, GITR, ICOS
+                    Transcription factor: FOXP3, RORγt, IRF4
+-----
+Secreted: IL2, TGFβ, IL10  
+Surface: CD25, CTLA4, Foxp3  
+Transcription factor: Foxp3, RORγt, Helios
+-----
+                    Secreted: IL-10, TGFβ, IL-35  
+                    Surface: CD25, CTLA4, FOXP3, GITR  
+                    Transcription factor: FOXP3, RORγt, Helios
+-----
+                    Secreted: IL10, TGFβ, CTLA4  
+                    Surface: CD25, FOXP3, CD4  
+                    Transcription factor: FOXP3, RORγt, STAT5  
+-----
+                    Secreted: IL10, TGFβ, IL35  
+                    Surface: CD25, CTLA4, CD127, GITR  
+                    Transcription factor: FOXP3, IRF4, RORγt
+-----
+                    Secreted: IL10, TGFβ, IL35  
+                    Surface: CD25, CTLA4, FoxP3, GITR, PD-1  
+                    Transcription factor: FOXP3, RORγt, NFAT, STAT5
+-----
+                    Secreted: IL10, TGFBI, CCL22
+                    Surface: CD4, CD25, FOXP3, CTLA4, GITR, PD-1
+                    Transcription factor: FOXP3, RORC, BATF, IKZF2
+-----
+                    Secreted: IL-10, TGFβ, IL-35  
+                    Surface: CD25, CTLA4, Foxp3  
+                    Transcription factor: FOXP3, RORγt, Helios  
+-----
+Secreted: IL10, TGFβ, CTLA4  
+Surface: CD25, CD4, FoxP3  
+Transcription factor: FOXP3, RORC, IRF4
+-----
+                    Secreted: IL-10, TGFβ, IL-35  
+                    Surface: CD25, CTLA-4, FoxP3  
+                    Transcription factor: FOXP3, RORγt, Helios  
+-----
+Secreted: IL2, TGFβ, IL10  
+Surface: CD4, CD25, CTLA4, FOXP3  
+Transcription factor: FOXP3, RORγt, STAT5
+-----
+                    Secreted: IL10, TGFβ, IL35  
+                    Surface: CD25, CTLA4, FoxP3  
+                    Transcription factor: FOXP3, RORγt, NFAT, GATA3
+-----
+                    Secreted: IL10, TGFβ, IL35
+                    Surface: CD25, Foxp3, CTLA4, PD-1, GITR
+                    Transcription factor: Foxp3, RORγt, Helios, Eos
+-----
+                    Secreted: IL-10, TGFβ, IL-35  
+                    Surface: CD25, CTLA4, FoxP3  
+                    Transcription factor: FoxP3, RORγt, Helios
+-----
+                    Secreted: IL10, TGFβ, IL35  
+                    Surface: CD25, CTLA4, PD-1, FoxP3  
+                    Transcription factor: FOXP3, RORC, IKZF2
+-----
+Secreted: IL-10, TGFBI, CTLA4  
+Surface: CD25, CD4, FoxP3  
+Transcription factor: FoxP3, Helios, Eos
+-----
+                    Secreted: IL-10, TGFβ, IL-35  
+                    Surface: CD25, CTLA4, FoxP3  
+                    Transcription factor: FoxP3, Helios, Eos  
+-----
+Secreted: IL-10, TGFβ, IL-35  
+Surface: CD4, CD25, CTLA4, FoxP3, GITR, PD-1  
+Transcription factor: FOXP3, RORγt, NFAT, STAT5
+-----
+Secreted: IL10, TGFβ  
+Surface: CD25, CTLA4, FoxP3  
+Transcription factor: FOXP3, RUNX1, IRF4
+-----
+Secreted: IL10, TGFβ, IL35  
+Surface: CD25, CTLA4, FOXP3, CD4, GITR  
+Transcription factor: FOXP3, RORγt, T-bet
+-----
+Secreted: IL10, TGFBI, CTLA4  
+Surface: CD25, CD4, FoxP3  
+Transcription factor: FOXP3, RORC, BATF   
+
+(Note: Some genes may fit into multiple categories based on context, but have been placed in the most relevant category here.)
+-----
+Secreted: IL-10, TGFβ, IL-35  
+Surface: CD25, CTLA4, GITR, PD-1, FoxP3  
+Transcription factor: FOXP3, STAT5, KLF10
+-----
+Secreted: IL-10, TGFβ, CTLA4  
+Surface: CD25, CD4, FoxP3  
+Transcription factor: FOXP3, RORC, STAT5
+-----
+                    Secreted: IL10, TGFβ, CTLA4
+                    Surface: CD25, FOXP3, CD4, PD-1
+                    Transcription factor: FOXP3, Helios, NFAT, BATF, IRF4
+-----
+                    Secreted: IL10, TGFβ, IL35  
+                    Surface: CD25, CTLA4, FOXP3, GITR  
+                    Transcription factor: FOXP3, RORγt, BATF, IRF4  
+-----
+Secreted: IL10, TGFβ, CTLA4  
+Surface: CD25, CD4, FoxP3, GITR, PD-1  
+Transcription factor: FOXP3, RORγt, NFAT, Helios
+-----
+Secreted: IL10, TGFβ, IL35  
+Surface: CD25, CTLA4, FoxP3  
+Transcription factor: FOXP3, STAT5, RUNX1  
+-----
+                    Secreted: IL2, TGFβ, IL10, CTLA4
+                    Surface: CD4, CD25, FOXP3, CTLA4, GITR
+                    Transcription factor: FOXP3, RORγt, Stat5
+-----
+Secreted: IL10, TGFbeta, IL35  
+Surface: CD25, CTLA4, FoxP3  
+Transcription factor: FOXP3, RORC, STAT5  
+-----
+Secreted: IL-10, TGFβ, IL-35  
+Surface: CD25, CTLA4, FoxP3  
+Transcription factor: FOXP3, RORγt, Helios
+-----
+Secreted: IL10, TGFβ, CTLA4  
+Surface: CD25, FOXP3, CD127, GITR  
+Transcription factor: FOXP3, RORγt, IRF4, NFAT
+-----
+Secreted: IL10, TGFβ, IL35  
+Surface: CD25, FOXP3, CTLA4, GITR, PD-1, CD127  
+Transcription factor: FOXP3, IRF4, RORγt
+-----
+                    Secreted: IL-10, TGFβ, CTLA4  
+                    Surface: CD25, CD4, FoxP3  
+                    Transcription factor: Helios, Eos, IRF4  
+-----
+                    Secreted: IL10, TGFβ, IL35
+                    Surface: CD4, CD25, CTLA4, FOXP3, PD-1
+                    Transcription factor: FOXP3, RORγt, RUNX1

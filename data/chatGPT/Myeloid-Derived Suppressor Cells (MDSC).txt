@@ -1,0 +1,405 @@
+                    Secreted: IL-10, TGFβ, ARG1, COX2, IDO1  
+                    Surface: CD11b, CD33, HLA-DR, PD-L1, CD14, CD80  
+                    Transcription factor: STAT3, NF-κB, IRF8, C/EBPβ, PU.1  
+-----
+Secreted: IL-10, TGF-β, VEGF, Arginase-1, IDO  
+Surface: CD11b, Gr-1, PD-L1, CD80, CD86  
+Transcription factor: STAT3, HIF-1α, NF-κB
+-----
+                    Secreted: IL-10, TGFβ, ARG1, iNOS, CCL2  
+                    Surface: CD11b, Gr-1, CD33, CD206, PD-L1  
+                    Transcription factor: STAT3, HIF1A, NF-κB, IRF8  
+-----
+                    Secreted: ARG1, IL10, TGFβ, VEGF, COX2, PGE2  
+                    Surface: CD11b, Gr-1, CD33, PD-L1, HLA-DR, CD14  
+                    Transcription factor: STAT3, NF-κB, CEBPB, IRF8, BATF3
+-----
+Secreted: IL-6, IL-10, TGF-beta, ARG1, NOS2  
+Surface: CD11b, CD14, CD15, CD33, PD-L1, HLA-DR  
+Transcription factor: STAT3, PU.1, NF-kB, IRF8, CEBPB
+-----
+Secreted: IL-10, TGFβ, ARG1, COX2, IDO1  
+Surface: CD11b, CD33, PD-L1, Gr-1, CD163  
+Transcription factor: HIF1α, STAT3, NF-κB, IRF8
+-----
+Secreted: IL-10, TGFβ, arginase1, IDO, CCL2  
+Surface: CD11b, CD33, HLA-DR, CD14, PD-L1, CD80  
+Transcription factor: STAT3, NF-κB, IRF8, C/EBPβ, PU.1  
+-----
+Secreted: IL-10, TGFβ, ARG1, NOS2, CCL2  
+Surface: CD11b, Gr-1, CD33, PD-L1, HLA-DR  
+Transcription factor: STAT3, NF-κB, IRF8, C/EBPβ, PU.1
+-----
+                    Secreted: IL10, TGFβ, ARG1, IDO1, CCL2, CXCL12  
+                    Surface: CD11b, CD14, CD33, PD-L1, HLA-DR, CSF1R  
+                    Transcription factor: STAT3, NF-kB, IRF8, RUNX1, PU.1
+-----
+                    Secreted: IL-10, TGFβ, VEGF, ARG1, IDO1, CCL2
+                    Surface: CD11b, CD14, CD33, HLA-DR, PD-L1, S100A8, S100A9
+                    Transcription factor: STAT3, NF-kB, GFI1, IRF8, PU.1
+-----
+                    Secreted: IL-10, TGFβ, ARG1, NOS2, CCL2  
+                    Surface: CD11b, CD14, CD33, HLA-DR, PD-L1  
+                    Transcription factor: STAT3, IRF8, NF-κB, C/EBPβ
+-----
+Secreted: IL-10, TGFβ, arginase1, IDO1, COX2  
+Surface: CD11b, CD14, HLA-DR, CSF1R, SIGLEC-15  
+Transcription factor: STAT3, IRF8, CEBPB, NF-kB
+-----
+Secreted: IL-10, TGFβ, CCL2, IDO1, ARG1  
+Surface: CD11b, CD14, CD33, HLA-DR, S100A9  
+Transcription factor: STAT3, NF-κB, IRF8, PU.1
+-----
+Secreted: IL-10, TGFβ, arginase-1, IDO, CCL2, CCL5  
+Surface: CD11b, Gr-1, CD33, HLA-DR, CD80, CD86  
+Transcription factor: STAT3, NF-κB, IRF8, C/EBPβ
+-----
+Secreted: IL-10, TGFβ, ARG1, CCL2, CCL5  
+Surface: CD11b, CD14, CD33, HLA-DR, PD-L1  
+Transcription factor: STAT3, NF-kB, IRF8, C/EBPβ
+-----
+Secreted: IL-10, TGF-beta, arginase 1, IDO1, VEGF, CCL2  
+Surface: CD11b, Gr-1, CD33, HLA-DR, CD80, PD-L1  
+Transcription factor: STAT3, NF-kB, IRF8, c-MYC, PU.1  
+-----
+Secreted: IL-10, TGFβ, arg1, IDO1, VEGF  
+Surface: CD11b, CD14, CD33, HLA-DR, CD16, Ly6G  
+Transcription factor: STAT3, NF-kB, CEBPB, IRF8  
+-----
+                    Secreted: ARG1, IL10, TGFβ, CCL2, CCL5, NOS2
+                    Surface: CD11b, CD14, CD33, HLA-DR, PD-L1, TIM-3
+                    Transcription factor: STAT3, NF-κB, IRF8, C/EBPβ, PU.1
+-----
+                    Secreted: IL-10, TGF-β, ARG1, IL-6, CCL2
+                    Surface: CD11b, Gr-1, PD-L1, CD80, CD206
+                    Transcription factor: STAT3, HIF1A, NF-κB, IRF8
+-----
+Secreted: IL-10, TGFβ, Arginase1, iNOS, IDO  
+Surface: CD11b, Gr1, CD33, CD14, PD-L1  
+Transcription factor: STAT3, NF-κB, HIF1A, C/EBPβ
+-----
+Secreted: IL-10, TGFβ, ARG1, IDO1, CCL2, CCL3  
+Surface: CD11b, CD33, HLA-DR, PD-L1, CD80, CD206  
+Transcription factor: STAT3, NF-κB, PU.1, IRF8, C/EBPβ  
+-----
+                    Secreted: IL-10, TGFβ, Arg1, COX2, VEGF
+                    Surface: CD11b, Gr1, CD33, CD115, PD-L1
+                    Transcription factor: STAT3, NF-kB, HIF1A, c-MYC
+-----
+Secreted: IL-10, TGFβ, ARG1, NOS2, CCL2  
+Surface: CD11b, Gr-1, CD33, CD14, HLA-DR  
+Transcription factor: STAT3, NF-κB, IRF8, C/EBPβ
+-----
+Secreted: IL-10, TGFβ, ARG1, IDO1, CCL2, CCL5  
+Surface: CD11b, Gr1, PD-L1, CD80, CD86, CXCR4  
+Transcription factor: STAT3, NF-κB, HIF1A, C/EBPβ, IRF8
+-----
+                    Secreted: IL-10, TGFβ, ARG1, IDO1, CCL2
+                    Surface: CD11b, CD33, HLA-DR, CD14, PD-L1
+                    Transcription factor: STAT3, NF-κB, C/EBPβ, IRF8
+-----
+Secreted: IL-10, TGFβ, ARG1, IDO1, CCL2, CCL5  
+Surface: CD11b, Gr-1, PD-L1, CD33, CD14, CSF1R  
+Transcription factor: STAT3, HIF1A, NFκB, IRF8, RUNX1
+-----
+Secreted: IL-10, TGFβ1, ARG1, NOS2, COX2  
+Surface: CD11b, CD33, CD14, HLA-DR, PD-L1  
+Transcription factor: STAT3, NF-κB, C/EBPβ, IRF8
+-----
+Secreted: IL-10, TGFβ, ARG1, NOS2, CCL2  
+Surface: CD11b, Gr-1, CD33, PD-L1, CD80  
+Transcription factor: STAT3, HIF1A, NF-kB, IRF8
+-----
+Secreted: IL-10, TGFβ, VEGF, ARG1, NOS2  
+Surface: CD11b, Gr-1, PD-L1, CD80, CD86  
+Transcription factor: STAT3, HIF1A, IRF8, C/EBPβ
+-----
+                    Secreted: ARG1, IL10, TGFβ1, COX2, ROS, NO
+                    Surface: CD11b, CD33, PD-L1, HLA-DR, CD80, CD86
+                    Transcription factor: STAT3, IRF8, NF-κB, RUNX1, CEBPB
+-----
+                    Secreted: ARG1, IL10, TGFβ, CCL2, COX2  
+                    Surface: CD11b, CD14, CD33, PD-L1, HLA-DR  
+                    Transcription factor: STAT3, NF-κB, C/EBPβ, IRF8
+-----
+Secreted: IL-10, TGF-beta, Arginase-1, IDO1, COX2  
+Surface: CD11b, CD14, CD33, PD-L1, CD80  
+Transcription factor: STAT3, HIF1A, NF-kB, C/EBPbeta
+-----
+Secreted: IL-10, TGFβ, ARG1, COX2, VEGF  
+Surface: CD11b, CD33, CD14, HLA-DR, PD-L1  
+Transcription factor: STAT3, NF-κB, C/EBPβ, IRF8
+-----
+Secreted: IL-10, TGFβ, arginase-1, IDO1, CCL2  
+Surface: CD11b, Gr-1, CD33, PD-L1, CD80, CD206  
+Transcription factor: STAT3, HIF1A, NF-kB, IRF8
+-----
+                    Secreted: IL-10, TGFβ, Arginase1, NOS2, CCL2, VEGF, HGF  
+                    Surface: CD11b, Gr1, PD-L1, CD80, CD86, CSF1R, CD204  
+                    Transcription factor: STAT3, NF-kB, IRF8, C/EBPβ, RUNX1
+-----
+Secreted: IL-10, TGFβ, ARG1, IDO1, CCL2  
+Surface: CD11b, CD33, CD14, HLA-DR, PD-L1  
+Transcription factor: STAT3, NF-κB, IRF8, C/EBPβ
+-----
+Secreted: IL-10, TGFβ, Arginase-1, IDO, CCL2, CCL5  
+Surface: CD11b, CD14, CD33, HLA-DR, PD-L1, CD206  
+Transcription factor: STAT3, HIF1A, NF-kB, PU.1, IRF8
+-----
+Secreted: IL-10, TGF-beta, ARG1, NOS2, CCL2  
+Surface: CD11b, Gr-1, PD-L1, CD80, CD206  
+Transcription factor: STAT3, HIF1A, IRF8, NF-kB
+-----
+Secreted: IL-10, TGFβ1, ARG1, IDO1, CCL2  
+Surface: CD11b, CD14, HLA-DR, PD-L1, CD33, Gr-1  
+Transcription factor: STAT3, NF-kB, IRF8, C/EBPβ
+-----
+                    Secreted: ARG1, IL10, TGFβ, CCL2, CCL5, VEGF, IDO1  
+                    Surface: CD11b, Gr-1, CD14, PD-L1, CD80, CD39  
+                    Transcription factor: Stat3, HIF1A, NF-κB, IRF8, CEBPB
+-----
+Secreted: ARG1, IL10, TGFβ, IDO1, VEGF  
+Surface: CD11b, CD33, HLA-DR, CCR2, CXCR4  
+Transcription factor: STAT3, NF-kB, IRF8, C/EBPβ
+-----
+Secreted: IL-10, TGFβ, ARG1, COX2, NOS2  
+Surface: CD11b, GR1, CD33, HLA-DR, CD80, PD-L1  
+Transcription factor: CEBPB, STAT3, IRF8, PU.1
+-----
+Secreted: IL-10, TGFβ, arg1, IDO, CCL2  
+Surface: CD11b, Gr-1, CD14, CD80, PD-L1  
+Transcription factor: Stat3, NF-κB, HIF1A, IRF8
+-----
+Secreted: IL-10, TGFβ, arginase1, IDO, VEGF  
+Surface: CD11b, Gr1, CD80, CD86, PD-L1, CCR2  
+Transcription factor: STAT3, NF-kB, IRF8, CEBPB
+-----
+                    Secreted: IL-10, TGFβ, arginase1, IDO1, S100A8, S100A9
+                    Surface: CD11b, Gr-1, CD14, CD33, HLA-DR, PD-L1
+                    Transcription factor: STAT3, NF-κB, C/EBPβ, IRF8, STAT6
+-----
+Secreted: IL-10, TGFβ, ARG1, IDO1, CCL2  
+Surface: CD11b, CD33, HLA-DR, CSF1R, CD80  
+Transcription factor: STAT3, NF-κB, IRF8, C/EBPβ
+-----
+Secreted: IL-10, TGFβ, ARG1, IDO1, CCL2  
+Surface: CD11b, CD33, HLA-DR, PD-L1, CD14, CD16  
+Transcription factor: STAT3, NF-κB, IRF8, C/EBPβ
+-----
+                    Secreted: IL-10, TGFβ, ARG1, COX2, IDO1  
+                    Surface: CD11b, Gr1, PD-L1, CD80, CD86  
+                    Transcription factor: STAT3, HIF1A, MYC, NF-κB
+-----
+                    Secreted: ARG1, IL10, TGFBI, CCL2, CCL5, NOS2  
+                    Surface: CD11b, CD33, HLA-DR, CD40, PD-L1  
+                    Transcription factor: STAT3, IRF8, NF-kB, CEBPB
+-----
+Secreted: IL-10, TGFβ, arginase1, NOS2, VEGF  
+Surface: CD11b, CD33, HLA-DR, PD-L1, CSF1R  
+Transcription factor: STAT3, IRF8, C/EBPβ, NF-κB  
+-----
+Secreted: IL-10, TGF-beta, arginase-1, IDO, VEGF  
+Surface: CD11b, CD33, PD-L1, CD14, HLA-DR  
+Transcription factor: STAT3, NF-kB, C/EBPbeta, IRF8
+-----
+Secreted: IL-10, TGFβ, ARG1, IDO1, CCL2  
+Surface: CD11b, CD14, CD33, HLA-DR, PD-L1  
+Transcription factor: STAT3, NF-κB, HIF1A, IRF8
+-----
+Secreted: IL-10, TGFβ, Arginase1, IDO1, VEGF  
+Surface: CD11b, Gr1, CD14, CD33, PD-L1  
+Transcription factor: STAT3, HIF1A, NF-κB, C/EBPβ  
+-----
+Secreted: IL-10, TGFβ, arginase 1, IDO1, VEGF  
+Surface: CD11b, Gr-1, CD33, PD-L1, CD204  
+Transcription factor: STAT3, HIF1A, NF-kB, CEBPB
+-----
+Secreted: IL-10, TGFβ, ARG1, NOS2, CCL2, CCL3  
+Surface: CD11b, Gr-1, CD33, HLA-DR, PD-L1, CD80  
+Transcription factor: STAT3, NF-kB, IRF8, C/EBPβ
+-----
+Secreted: Arg1, IL10, TGFβ, CCL2, CCL3  
+Surface: CD11b, CD14, CD33, HLA-DR, PD-L1  
+Transcription factor: STAT3, NF-κB, C/EBPβ, IRF8
+-----
+Secreted: IL-10, TGFβ, ARG1, IDO1, CCL2, VEGF  
+Surface: CD11b, Gr-1, CD33, PD-L1, CD80, CD86  
+Transcription factor: STAT3, NF-κB, IRF8, PU.1, C/EBPβ
+-----
+Secreted: ARG1, IL10, TGFβ, CCL2, VEGF  
+Surface: CD11b, Gr-1, CD80, CD86, PD-L1  
+Transcription factor: STAT3, HIF1A, NF-kB, IRF8
+-----
+Secreted: IL-10, TGFβ, arginase-1, IDO, VEGF  
+Surface: CD11b, Gr-1, CD33, PD-L1, CD80  
+Transcription factor: STAT3, NF-κB, IRF8, C/EBPβ
+-----
+                    Secreted: IL-10, TGFβ, ARG1, IDO1, NOS2
+                    Surface: CD11b, CD33, CD14, PD-L1, CTLA-4
+                    Transcription factor: STAT3, NFκB, IRF8, C/EBPβ
+-----
+Secreted: IL-10, TGFβ, ARG1, NOS2, CCL2  
+Surface: CD11b, Gr-1, CD33, PD-L1, CD206  
+Transcription factor: STAT3, NF-κB, IRF8, HIF1A
+-----
+Secreted: IL-10, TGFβ, arginase-1, indoleamine 2,3-dioxygenase (IDO), VEGF  
+Surface: CD11b, CD14, CD33, HLA-DR, PD-L1, CD80, CD86  
+Transcription factor: STAT3, NF-κB, IRF8, C/EBPβ, RUNX1
+-----
+Secreted: IL-10, TGFβ, ARG1, NOS2, CCL2, CCL5  
+Surface: CD11b, CD33, HLA-DR, PD-L1, CD40, CD14  
+Transcription factor: STAT3, NF-κB, IRF8, C/EBPβ
+-----
+Secreted: IL-10, TGFβ, arginase-1, COX2, MMP9  
+Surface: CD11b, CD14, CD33, HLA-DR, PD-L1, SIGLEC-1  
+Transcription factor: STAT3, NF-κB, C/EBPβ, IRF8
+-----
+Secreted: IL-10, TGFβ, Arg1, IDO, VEGF, PGE2  
+Surface: CD11b, Gr1, CD33, CD14, PD-L1, CD80  
+Transcription factor: HIF1A, STAT3, NF-kB, C/EBPβ, IRF8
+-----
+Secreted: ARG1, IL10, TGFβ, CCL2, CCL3  
+Surface: CD11b, CD14, CD33, HLA-DR, PD-L1  
+Transcription factor: STAT3, NF-kB, IRF8, C/EBPβ
+-----
+Secreted: IL-6, IL-10, TGFβ, arginase-1, iNOS  
+Surface: CD11b, CD14, CD33, HLA-DR, PD-L1, CD80  
+Transcription factor: STAT3, STAT5, NF-κB, IRF8, C/EBPβ
+-----
+                    Secreted: IL-10, TGFβ, ARG1, NOS2, CXCL8  
+                    Surface: CD11b, CD14, CD33, PD-L1, HLA-DR  
+                    Transcription factor: STAT3, C/EBPβ, NF-κB, IRF8
+-----
+                    Secreted: IL-10, TGFβ, ARG1, IDO1, CCL2, CCL5, VEGF  
+                    Surface: CD11b, Gr-1, CD33, PD-L1, CD80, CD206  
+                    Transcription factor: STAT3, NF-κB, IRF8, C/EBPβ, HIF1α
+-----
+                    Secreted: IL-10, TGFβ, ARG1, IDO1, CCL2, VEGF
+                    Surface: CD11b, Gr-1, CD33, PD-L1, CD80, CD86
+                    Transcription factor: STAT3, HIF1A, NFκB, IRF8, CEBPB
+-----
+Secreted: IL-10, TGFβ, ARG1, IDO1, CCL2  
+Surface: CD11b, CD14, CD33, HLA-DR, PD-L1  
+Transcription factor: STAT3, NF-κB, IRF8, C/EBPβ
+-----
+Secreted: IL-10, TGFβ, arginase1, iNOS, IDO, VEGF  
+Surface: CD11b, Gr-1, CD14, CD16, PD-L1, CD80, CD86  
+Transcription factor: STAT3, HIF1A, IRF8, NF-kB, C/EBPβ
+-----
+Secreted: IL-10, TGFβ, ARG1, NOS2, CCL2  
+Surface: CD11b, CD33, HLA-DR, PD-L1, CD80  
+Transcription factor: STAT3, NF-kB, IRF8, PU.1
+-----
+                    Secreted: IL-10, TGFβ, Arg1, NOS2, CCL2
+                    Surface: CD11b, Gr1, CD33, PD-L1, CD80
+                    Transcription factor: STAT3, HIF1A, NF-kB, PU.1
+-----
+                    Secreted: IL-10, TGF-β, arginase-1, iNOS, VEGF
+                    Surface: CD11b, Gr-1, CD124, PD-L1, CD80
+                    Transcription factor: STAT3, HIF-1α, NF-κB, IRF8
+-----
+Secreted: IL-10, TGFβ, ARG1, IDO1, CCL2  
+Surface: CD11b, CD14, CD33, HLA-DR, PD-L1, S100A9  
+Transcription factor: STAT3, NF-κB, C/EBPβ, IRF8, PU.1  
+-----
+Secreted: IL-10, TGFβ, ARG1, IDO1, CCL2  
+Surface: CD11b, Gr-1, CD14, CD33, PD-L1  
+Transcription factor: STAT3, HIF1A, NF-κB, IRF8  
+-----
+Secreted: IL-10, TGFβ, ARG1, IDO, CCL2, CCL5  
+Surface: CD11b, Gr-1, CD80, CD86, CD124, PD-L1  
+Transcription factor: STAT3, NF-κB, RUNX1, IRF8
+-----
+                    Secreted: IL10, TGFβ, Arginase1, IDO1, CCL2, CCL5
+                    Surface: CD11b, Gr1, CD33, PD-L1, CD80, CCR2
+                    Transcription factor: STAT3, HIF1A, IRF8, NF-κB, C/EBPβ
+-----
+Secreted: IL-10, TGFβ, arginase-1, IDO1, VEGF  
+Surface: CD11b, Gr-1, CD33, PD-L1, CD80  
+Transcription factor: HIF1A, STAT3, NF-kB, IRF8, C/EBPβ  
+-----
+Secreted: IL-10, TGFβ, ARG1, COX2, CCL2  
+Surface: CD11b, CD14, CD33, PD-L1, HLA-DR  
+Transcription factor: IRF8, STAT3, NF-κB, C/EBPβ
+-----
+Secreted: IL10, TGFβ, ARG1, NOS2, CCL2, CCL3, CCL5  
+Surface: CD11b, CD14, CD33, HLA-DR, PD-L1, CD80, CD86  
+Transcription factor: STAT3, IRF8, NF-kB, PU.1, C/EBPβ
+-----
+Secreted: IL-10, TGFβ, arginase-1, IDO, CCL2, CCL3  
+Surface: CD11b, CD14, CD33, HLA-DR, PD-L1, LAG-3  
+Transcription factor: STAT3, NF-kB, IRF8, CEBPB, PU.1
+-----
+Secreted: IL-10, TGFβ, Arg1, COX2, IDO1  
+Surface: CD11b, Gr-1, PD-L1, CD80, CD86  
+Transcription factor: STAT3, NF-κB, HIF1A, PU.1
+-----
+Secreted: IL-10, TGFβ, ARG1, NOS2, CXCL8  
+Surface: CD11b, CD14, CD33, PD-L1, HLA-DR  
+Transcription factor: STAT3, C/EBPβ, NF-κB
+-----
+Secreted: IL-10, TGFβ, NOS2, Arginase1, CCL2  
+Surface: CD11b, CD33, CD14, HLA-DR, PD-L1, ICAM-1  
+Transcription factor: STAT3, NF-κB, IRF8, C/EBPβ
+-----
+Secreted: IL-10, TGF-beta, Arginase-1, iNOS, COX-2  
+Surface: CD11b, CD14, CD33, PD-L1, S100A9  
+Transcription factor: STAT3, NF-kB, HIF-1α, IRF8
+-----
+Secreted: IL-10, TGF-beta, ARG1, COX2, IDO, VEGF  
+Surface: CD11b, CD33, CD80, CD86, HLA-DR, S100A9  
+Transcription factor: STAT3, IRF8, CEBPB, NF-kB, RUNX1
+-----
+                    Secreted: IL-10, TGFβ, arg1, COX2, IDO, VEGF  
+                    Surface: CD11b, CD14, CD33, HLA-DR, CD80, PD-L1  
+                    Transcription factor: STAT3, NF-κB, C/EBPβ, IRF8, HIF1α  
+-----
+Secreted: IL-10, TGFβ, ARG1, IDO1, CCL2  
+Surface: CD11b, CD14, GR1, HLA-DR, PD-L1  
+Transcription factor: STAT3, NF-κB, IRF8, C/EBPβ
+-----
+Secreted: IL-10, TGFβ, arginase-1, NOS2, CCL2  
+Surface: CD11b, Gr-1, CD33, PD-L1, CD80  
+Transcription factor: STAT3, HIF1A, NF-kB, IRF8
+-----
+Secreted: IL-10, TGFβ, ARG1, IDO1, MMP9  
+Surface: CD11b, CD33, HLA-DR, CD44, PD-L1, CD80  
+Transcription factor: HIF1A, STAT3, NF-kB, PU.1, IRF8
+-----
+Sure! Here’s the list of marker genes associated with the functional roles of Myeloid-Derived Suppressor Cells (MDSC):
+
+                    Secreted: IL10, TGFβ, ARG1, NOS2, CXCL8
+                    Surface: CD11b, CD14, CD33, HLA-DR, CD80
+                    Transcription factor: STAT3, NFκB, CEBPB, IRF8
+-----
+Secreted: IL-10, TGFβ, ARG1, NOS2, CCL2  
+Surface: CD11b, Gr-1, CD33, PD-L1, CD80  
+Transcription factor: STAT3, HIF1A, NF-kB, IRF8
+-----
+Secreted: IL-10, TGFβ, arginase-1  
+Surface: CD11b, Ly6G, Ly6C, PD-L1, CD80  
+Transcription factor: STAT3, HIF1A, NF-kB
+-----
+Secreted: ARG1, IL10, TGFβ, CCL2, COX2  
+Surface: CD11b, CD14, CD33, HLA-DR, CD80  
+Transcription factor: STAT3, NF-κB, IRF8, PU.1
+-----
+                    Secreted: IL-10, TGFβ, arginase-1, IDO, COX-2
+                    Surface: CD11b, CD14, CD33, PD-L1, VEGFR, HLA-DR
+                    Transcription factor: STAT3, NF-κB, IRF8, C/EBPβ, PU.1
+-----
+                    Secreted: ARG1, IL10, TGFβ, COX2, IDO1
+                    Surface: CD11b, CD14, CD33, PD-L1, HLA-DR
+                    Transcription factor: STAT3, NF-κB, CEBPβ
+-----
+Secreted: IL10, TGFβ1, ARG1, NOS2, CCL2, CCL3  
+Surface: CD11b, CD14, HLA-DR, PD-L1, CD33, CD115  
+Transcription factor: STAT3, NF-kB, C/EBPβ, IRF8
+-----
+Secreted: IL-10, TGFβ, ARG1, NOS2, CCL2  
+Surface: CD11b, CD33, HLA-DR, CD45, PD-L1  
+Transcription factor: STAT3, NF-κB, IRF8, C/EBPβ
+-----
+Secreted: IL-10, TGFβ, ARG1, CCL2, CCL17, IDO, VEGF  
+Surface: CD11b, CD33, HLA-DR, CD14, CCR2, PD-L1, CD80  
+Transcription factor: STAT3, NF-κB, IRF8, C/EBPβ, RUNX1

@@ -1,0 +1,403 @@
+Secreted: IFNG, TNF, IL2, CCL5, CCL3  
+Surface: CD4, CXCR3, PD-1, LAG3  
+Transcription factor: T-bet, STAT4, GATA3
+-----
+Secreted: IFNG, TNF, IL2  
+Surface: CD4, CD26, CXCR3  
+Transcription factor: TBX21, STAT4, RUNX3
+-----
+                    Secreted: IFNG, TNF, IL2, CCL5, CCL3  
+                    Surface: CD4, CXCR3, PD-1, LAG3, CD226  
+                    Transcription factor: T-bet, STAT4, GATA3
+-----
+                    Secreted: IFNG, TNF, IL2, CCL5, GM-CSF  
+                    Surface: CD4, CD26, CXCR3, PD-1, LAG3  
+                    Transcription factor: T-bet, STAT4, Eomes
+-----
+Secreted: IFNG, TNF, IL2, IL12RB2  
+Surface: CD4, CD26, CXCR3, PD-1  
+Transcription factor: T-bet, Stat4, Runx3
+-----
+Secreted: IFNG, TNF, IL2, CCL5, CCL3  
+Surface: CD4, CXCR3, PD-1, LAG3, CD28  
+Transcription factor: TBX21, STAT4, T-bet
+-----
+Secreted: IFNG, TNF, IL2, CCL5, CXCL10  
+Surface: CD4, CD26, PD-1, LAG3  
+Transcription factor: T-bet, STAT4, RUNX3
+-----
+                    Secreted: IFNG, TNF, IL2, CCL5, IL12RB2  
+                    Surface: CD4, CXCR3, PD-1, LAG3  
+                    Transcription factor: TBX21, STAT4, T-bet
+-----
+Secreted: IFNG, TNF, IL2, CCL5  
+Surface: CD4, CXCR3, PD-1, LAG3  
+Transcription factor: T-bet (TBX21), STAT4, RUNX3
+-----
+Secreted: IFNG, TNF, CCL5, IL2, GM-CSF  
+Surface: CD4, CXCR3, CD26, PD-1, LAG3  
+Transcription factor: T-bet, STAT4, RUNX3, Eomes
+-----
+Secreted: IFNG, TNF, IL2, CCL5, CCL3  
+Surface: CD4, CXCR3, PD-1, CTLA4, CD26  
+Transcription factor: TBX21, STAT4, RUNX3
+-----
+Secreted: IFNG, TNF, IL2, IL12RB2  
+Surface: CD4, CXCR3, PD-1, LAG3  
+Transcription factor: TBX21, STAT4, T-bet
+-----
+                    Secreted: IFNG, TNF, IL2
+                    Surface: CD4, CXCR3, PD-1
+                    Transcription factor: T-bet, STAT4, RUNX3
+-----
+                    Secreted: IFNG, TNF, IL2, IL12RB2
+                    Surface: CD4, CD26, CXCR3, PD-1
+                    Transcription factor: T-bet (TBX21), STAT4, Runx3
+-----
+                    Secreted: IFNG, TNF, CCL5, IL2, IL12RB2
+                    Surface: CD4, CXCR3, PD-1, LAG3, CD226
+                    Transcription factor: T-bet (TBX21), STAT4, Eomes (EOMES)
+-----
+Secreted: IFNG, TNF, IL2, CCL5  
+Surface: CD4, CXCR3, PD-1, LAG3  
+Transcription factor: TBX21, STAT4, T-bet
+-----
+Secreted: IFNG, TNF, IL2, CCL5  
+Surface: CD4, CXCR3, PD-1, CD40L  
+Transcription factor: TBX21, STAT4, RUNX3
+-----
+                    Secreted: IFNG, TNF, IL2, IL12RB2, CCL5
+                    Surface: CD4, CXCR3, PD-1, LAG3, CD154
+                    Transcription factor: T-bet (TBX21), STAT4, RORγt (RORC), Runx3
+-----
+                    Secreted: IFNG, TNF, IL2, CCL5, CCL3
+                    Surface: CD4, CXCR3, PD-1, CD26, LAG3
+                    Transcription factor: T-bet, STAT4, RUNX3, Eomes
+-----
+                    Secreted: IFNG, TNF, IL2, CCL3, CCL4
+                    Surface: CD4, CXCR3, PD-1, LAG3
+                    Transcription factor: T-bet, STAT4, Runx3
+-----
+                    Secreted: IFNG, TNF, IL2, IL12RB2, CCL5  
+                    Surface: CD4, CXCR3, PD-1, CD226, CD40L  
+                    Transcription factor: TBX21, STAT4, RUNX3
+-----
+Secreted: IFNG, TNF, IL2, CCL3, CCL4  
+Surface: CD4, CXCR3, PD-1, LAG3, CD226  
+Transcription factor: T-bet, STAT4, RUNX3, Eomes
+-----
+                    Secreted: IFNG, TNF, IL2, IL12RB2
+                    Surface: CD4, CXCR3, PD-1, LAG3
+                    Transcription factor: T-bet (TBX21), GATA3, STAT4
+-----
+                    Secreted: IFNG, TNF, IL2, GM-CSF
+                    Surface: CD4, CXCR3, PD-1, LAG3
+                    Transcription factor: T-bet, STAT4, RORγt
+-----
+Secreted: IFNG, TNF, GM-CSF  
+Surface: CD4, CXCR3, PD-1  
+Transcription factor: TBX21, STAT4, T-bet  
+-----
+                    Secreted: IFNG, TNF, IL2, CCL5, GM-CSF  
+                    Surface: CD4, CXCR3, PD-1, LAG3  
+                    Transcription factor: T-bet, STAT4, RUNX3  
+-----
+Secreted: IFNG, TNF, IL2, CCL5, CXCL9, CXCL10  
+Surface: CD4, CD26, PD-1, LAG3, CTLA4  
+Transcription factor: TBX21, STAT4, T-bet, RUNX3
+-----
+Secreted: IFNG, TNF, IL2  
+Surface: CD4, CXCR3, PD-1  
+Transcription factor: T-bet, STAT4, GATA3
+-----
+                    Secreted: IFNG, TNF, IL2, CCL5, CCL3  
+                    Surface: CD4, CXCR3, CD26, PD-1  
+                    Transcription factor: TBX21, STAT4, T-bet
+-----
+Secreted: IFNG, TNF, IL2, IL12RB2  
+Surface: CD4, CXCR3, PD-1, CD26  
+Transcription factor: T-bet, STAT4, RUNX3
+-----
+                    Secreted: IFNG, TNF, IL2, CCL5, CXCL10  
+                    Surface: CD4, CD26, PD-1, LAG3  
+                    Transcription factor: TBX21, STAT1, STAT4
+-----
+                    Secreted: IFNG, TNF, IL2, IL12RB1, CCL5
+                    Surface: CD4, CD26, CXCR3, PD-1, LAG3
+                    Transcription factor: T-bet (TBX21), Stat4, Runx3
+-----
+                    Secreted: IFNG, TNF, IL2, IL12RB1, CCL3
+                    Surface: CD4, CXCR3, PD-1, CD26, LAG3
+                    Transcription factor: T-bet (TBX21), STAT4, Eomes (EOMES)
+-----
+Secreted: IFNG, TNF, IL2, CCL5  
+Surface: CD4, CXCR3, PD-1, LAG3  
+Transcription factor: T-bet, STAT4, RORγt
+-----
+                    Secreted: IFNG, TNF, IL2, CCL5, IL12RB1
+                    Surface: CD4, CXCR3, PD-1, LAG3, CD226
+                    Transcription factor: TBX21, STAT4, T-bet
+-----
+                    Secreted: IFNG, TNF, IL2, IL12RB2
+                    Surface: CD4, CXCR3, PD-1, LAG3
+                    Transcription factor: T-bet (TBX21), STAT4, GATA3
+-----
+                    Secreted: IFNG, TNF, IL2, IL12RB2
+                    Surface: CD4, CXCR3, PD-1, LAG3
+                    Transcription factor: TBX21, STAT4, T-bet
+-----
+                    Secreted: IFNG, TNF, IL2, CCL5, IL12RB2  
+                    Surface: CD4, CXCR3, PD-1, LAG3, CD226  
+                    Transcription factor: T-bet, STAT4, RUNX3, Eomes
+-----
+                    Secreted: IFNG, TNF, IL2, CCL5, CCL3  
+                    Surface: CD4, CXCR3, PD-1, LAG3  
+                    Transcription factor: T-bet (TBX21), Stat4, Runx3
+-----
+                    Secreted: IFNG, TNF, IL2, CCL5, CCL3
+                    Surface: CD4, CXCR3, PD-1, LAG3, CD226
+                    Transcription factor: TBX21, STAT1, STAT4, RORC
+-----
+Secreted: IFNG, TNF, IL2, IL12RB2  
+Surface: CD4, CXCR3, PD-1, CD40L  
+Transcription factor: T-bet, STAT4, GATA3
+-----
+                    Secreted: IFNG, TNF, IL2, CCL5, IL12RB2  
+                    Surface: CD4, CXCR3, PD-1, LAG3  
+                    Transcription factor: TBX21, STAT4, RUNX3  
+-----
+Secreted: IFNG, TNF, IL2, CCL5  
+Surface: CD4, CXCR3, PD-1, CTLA4  
+Transcription factor: T-bet, Stat4, GATA3
+-----
+Secreted: IFNG, TNF, IL2, CCL5, CXCL9, CXCL10  
+Surface: CD4, CD26, PD-1, CXCR3, LAG3  
+Transcription factor: TBX21, STAT4, T-bet
+-----
+                    Secreted: IFNG, TNF, IL2, IL12RB2
+                    Surface: CD4, CXCR3, PD-1, LAG3
+                    Transcription factor: TBX21, STAT4, T-bet
+-----
+Secreted: IFNG, TNF, IL2, CCL5, IL12RB2  
+Surface: CD4, CXCR3, PD-1, LAG3, CTLA4  
+Transcription factor: T-bet (TBX21), STAT4, GATA3
+-----
+                    Secreted: IFNG, TNF, IL2, CCL5, IL12RB2
+                    Surface: CD4, CXCR3, PD-1, LAG3, CD226
+                    Transcription factor: T-bet, STAT4, RORγt, Eomes
+-----
+Secreted: IFNG, TNF, IL2, CCL5  
+Surface: CD4, CXCR3, PD-1, LAG3  
+Transcription factor: TBX21, STAT4, T-bet, EOMES
+-----
+Secreted: IFNG, TNF, IL2, CCL5, CXCL9  
+Surface: CD4, CD26, CXCR3, PD-1, LAG-3  
+Transcription factor: TBX21, STAT4, T-bet
+-----
+                    Secreted: IFNG, TNF, IL2, GM-CSF
+                    Surface: CD4, CXCR3, PD-1, LAG3
+                    Transcription factor: T-bet, STAT4, RUNX3
+-----
+Secreted: IFNG, TNF, CCL5, IL2, IL12RB2  
+Surface: CD4, CXCR3, CD26, PD-1  
+Transcription factor: T-bet (TBX21), STAT4, GATA3
+-----
+                    Secreted: IFNG, TNF, IL2, IL12RB2, CCL5
+                    Surface: CD4, CXCR3, PD-1, LAG3, CD26
+                    Transcription factor: TBX21, STAT4, RUNX3, T-bet
+-----
+Secreted: IFNG, TNF, IL2  
+Surface: CD4, CXCR3, PD-1  
+Transcription factor: T-bet, STAT4, GATA3  
+-----
+                    Secreted: IFNG, TNF, IL2, IL12RB2
+                    Surface: CD4, CXCR3, PD-1, CD26
+                    Transcription factor: T-bet (TBX21), STAT4, GATA3
+-----
+Secreted: IFNG, TNF, CCL5, IL2  
+Surface: CD4, CXCR3, PD-1, LAG3  
+Transcription factor: TBX21, STAT4, T-bet
+-----
+                    Secreted: IFNG, TNF, IL2, CCL5, CXCL10  
+                    Surface: CD4, CD26, CCR5, PD-1, LAG3  
+                    Transcription factor: T-BET, STAT4, GATA3
+-----
+Secreted: IFNG, TNF, IL2, CCL5  
+Surface: CD4, CXCR3, PD-1, CD26  
+Transcription factor: TBX21, STAT4, T-bet
+-----
+                    Secreted: IFNG, TNF, IL2, CCL5, CCL3  
+                    Surface: CD4, CXCR3, PD-1, LAG3  
+                    Transcription factor: TBX21, STAT4, T-bet
+-----
+                    Secreted: IFNG, TNF, IL2, IL12RB2, CCL5
+                    Surface: CD4, CXCR3, CD26, PD-1, LAG3
+                    Transcription factor: T-bet, STAT4, GATA3, RORγt
+-----
+Secreted: IFNG, TNF, IL2, CCL5  
+Surface: CD4, CXCR3, PD-1, CD226  
+Transcription factor: TBX21, STAT4, RUNX3
+-----
+Secreted: IFNG, TNF, IL2, CCL5  
+Surface: CD4, CXCR3, PD-1, LAG3  
+Transcription factor: T-bet, STAT4, GATA3  
+-----
+                    Secreted: IFNG, TNF, IL2, CCL5, IL12RB1  
+                    Surface: CD4, CXCR3, PD-1, CD26  
+                    Transcription factor: T-bet (TBX21), STAT4, RUNX3  
+-----
+                    Secreted: IFNG, TNF, IL2, CCL5, CXCL9
+                    Surface: CD4, CXCR3, PD-1, LAG3
+                    Transcription factor: TBX21, STAT4, T-bet
+-----
+                    Secreted: IFNG, TNF, IL2, IL12RB2, CCL5  
+                    Surface: CD4, CXCR3, PD-1, CD26  
+                    Transcription factor: T-bet (TBX21), STAT4, STAT1, EOMES
+-----
+Secreted: IFNG, TNF, IL2, IL12RB2  
+Surface: CD4, CD26, CXCR3  
+Transcription factor: TBX21, STAT4, T-bet
+-----
+                    Secreted: IFNG, TNF, IL2, IL12RB1
+                    Surface: CD4, CXCR3, PD-1, CD26
+                    Transcription factor: T-bet (TBX21), STAT4, RUNX3
+-----
+Secreted: IFNG, TNF, IL2, CCL5, CXCL9, CXCL10  
+Surface: CD4, CXCR3, PD-1, LAG3, CD26  
+Transcription factor: TBX21, STAT4, RUNX3
+-----
+                    Secreted: IFNG, TNF, IL2, CCL5, IL12RB2  
+                    Surface: CD4, CXCR3, PD-1, LAG3, CD226  
+                    Transcription factor: TBX21, STAT1, STAT4, T-bet
+-----
+                    Secreted: IFNG, TNF, IL2, CCL5, CXCL9, CXCL10  
+                    Surface: CD4, CD26, LAG3, PD-1, CTLA4  
+                    Transcription factor: T-bet, STAT4, RUNX3
+-----
+Secreted: IFNG, TNF, IL2, IL12RB1  
+Surface: CD4, CXCR3, PD-1, CTLA4  
+Transcription factor: TBX21, STAT4, T-bet
+-----
+Secreted: IFNG, TNF, IL2, CCL5, CXCL9, CXCL10  
+Surface: CD4, CD26, PD-1, CTLA-4, LAG-3  
+Transcription factor: T-bet, STAT4, GATA3, RORγt
+-----
+                    Secreted: IFNG, TNF, IL2, CCL5, CXCL10  
+                    Surface: CD4, CD40L, CTLA4, PD-1  
+                    Transcription factor: TBX21, STAT4, T-bet
+-----
+                    Secreted: IFNG, TNF, IL2, IL12RB2, CCL5
+                    Surface: CD4, CD26, CXCR3, PD-1, LAG3
+                    Transcription factor: T-bet, STAT4, RUNX3
+-----
+Secreted: IFNG, TNF, IL2, IL12RB2, CCL5  
+Surface: CD4, CXCR3, PD-1, LAG3  
+Transcription factor: TBX21, STAT4, T-bet, RUNX3
+-----
+                    Secreted: IFNG, TNF, IL2, IL12RB2, CCL5  
+                    Surface: CD4, CD26, CCR5, LAG3, CTLA4  
+                    Transcription factor: T-bet, STAT4, GATA3, RORγt  
+-----
+                    Secreted: IFNG, TNF, CCL5, IL2, IL12RB1
+                    Surface: CD4, CXCR3, PD-1, LAG3, CD226
+                    Transcription factor: T-bet, STAT4, Runx3, Eomes
+-----
+                    Secreted: IFNG, TNF, IL2, IL12RB2, CCL5
+                    Surface: CD4, CD40L, CXCR3, CD26, PD-1
+                    Transcription factor: TBX21, STAT4, T-bet, RUNX3
+-----
+                    Secreted: IFNG, TNF, IL2, CCL5, IL12RB2
+                    Surface: CD4, CXCR3, PD-1, LAG3, CD26
+                    Transcription factor: T-bet, STAT4, Eomes
+-----
+Secreted: IFNG, TNF, IL2, CCL5, CXCL9, CXCL10  
+Surface: CD4, CD26, PD-1, CXCR3, LAG3  
+Transcription factor: TBX21, STAT4, T-bet, Eomes  
+-----
+                    Secreted: IFNG, TNF, IL2, IL12RB2, CCL5
+                    Surface: CD4, CD26, CXCR3, PD-1, LAG3
+                    Transcription factor: TBX21, STAT4, T-bet
+-----
+                    Secreted: IFNG, TNF, IL2, IL12RB2
+                    Surface: CD4, CXCR3, PD-1, LAG3
+                    Transcription factor: TBX21, STAT4, RUNX3
+-----
+                    Secreted: IFNG, TNF, IL2, CCL5, CXCL9, CXCL10  
+                    Surface: CD4, CD26, LAG3, PD-1, CTLA4  
+                    Transcription factor: T-bet, STAT4, Runx3, Eomes
+-----
+                    Secreted: IFNG, TNF, IL2, IL12RB2
+                    Surface: CD4, CD26, CXCR3, PD-1
+                    Transcription factor: TBX21, STAT4, RUNX3
+-----
+                    Secreted: IFNG, TNF, IL2, IL12RB2
+                    Surface: CD4, CXCR3, PD-1, CTLA4
+                    Transcription factor: T-bet (TBX21), STAT4, GATA3
+-----
+Secreted: IFNG, TNF, IL2, CCL5, CXCL10  
+Surface: CD4, CD26, CXCR3, PD-1  
+Transcription factor: T-bet, STAT4, RORγt
+-----
+                    Secreted: IFNG, TNF, IL2, CCL5, IL12RB2
+                    Surface: CD4, CXCR3, PD-1, LAG3, CD26
+                    Transcription factor: T-bet, STAT4, Eomes, Runx3
+-----
+Secreted: IFNG, TNF, IL2, CCL5  
+Surface: CD4, CXCR3, PD-1, LAG3  
+Transcription factor: T-bet, Runx3, STAT4
+-----
+                    Secreted: IFNG, TNF, IL2, CCL5, CXCL9, CXCL10  
+                    Surface: CD4, CXCR3, PD-1, LAG3, CD226  
+                    Transcription factor: TBX21, STAT4, T-bet
+-----
+Secreted: IFNG, TNF, IL2  
+Surface: CD4, CXCR3, PD-1  
+Transcription factor: TBX21, STAT4, T-bet
+-----
+                    Secreted: IFNG, TNF, IL2, CCL5, GM-CSF  
+                    Surface: CD4, CXCR3, CD26, PD-1, LAG-3  
+                    Transcription factor: T-bet, STAT4, Eomes, RUNX3  
+-----
+                    Secreted: IFNG, TNF, IL2, IL12RB2
+                    Surface: CD4, CXCR3, CD26, PD-1
+                    Transcription factor: T-bet (TBX21), STAT4, GATA3
+-----
+Secreted: IFNG, TNF, IL2, CCL5  
+Surface: CD4, CXCR3, PD-1, LAG3  
+Transcription factor: T-bet, STAT4, Runx3
+-----
+Secreted: IFNG, TNF, IL2, CCL5, GM-CSF  
+Surface: CD4, CXCR3, PD-1, LAG3  
+Transcription factor: T-bet, STAT4, GATA3
+-----
+                    Secreted: IFNG, TNF, IL2, CCL5, CXCL10
+                    Surface: CD4, CD26, CD40L, PD-1, LAG3
+                    Transcription factor: T-bet, Eomes, Stat4, RORγt
+-----
+Secreted: IFNG, TNF, IL2, IL12RB2  
+Surface: CD4, CD26, CXCR3, PD-1  
+Transcription factor: T-bet (TBX21), STAT4, EOMES
+-----
+Secreted: IFNG, TNF, IL2  
+Surface: CD4, CXCR3, CD26  
+Transcription factor: TBX21, STAT4, T-bet
+-----
+Secreted: IFNG, TNF, IL2, IL12RB1  
+Surface: CD4, CXCR3, PD-1, LAG3  
+Transcription factor: TBX21, STAT4, T-bet
+-----
+                    Secreted: IFNG, TNF, IL2, IL12RB1, CCL5  
+                    Surface: CD4, CXCR3, PD-1, LAG3  
+                    Transcription factor: T-bet (TBX21), STAT4, RORγt (RORC)
+-----
+Secreted: IFNG, TNF, IL2, CCL5, CXCL10  
+Surface: CD4, CXCR3, CD26, PD-1  
+Transcription factor: T-bet, STAT4, RORγt
+-----
+Secreted: IFNG, TNF, IL2, CCL5, CCL3  
+Surface: CD4, CXCR3, PD-1, LAG3  
+Transcription factor: TBX21, STAT4, TCF7, RUNX3
+-----
+                    Secreted: IFNG, TNF, IL2, CCL5, GM-CSF  
+                    Surface: CD4, CXCR3, PD-1, LAG-3  
+                    Transcription factor: TBX21, STAT4, T-bet

@@ -1,0 +1,405 @@
+Secreted: IL1B, TNF, IL6, IL12A, CCL2, CCL3, iNOS  
+Surface: CD80, CD86, MHCII, CD64, PD-L1  
+Transcription factor: STAT1, NF-kB, IRF5, C/EBPβ, HIF1A  
+-----
+Secreted: IL1B, TNF, IL6, CCL2, CCL5, NOS2, IL12A  
+Surface: CD80, CD86, MHCII, CD64, CD40  
+Transcription factor: STAT1, IRF5, NF-kB, CEBPB, HIF1A  
+-----
+Secreted: IL1B, TNF, IL6, IL12A, CCL2, CCL5, NOS2, PTGS2  
+Surface: CD80, CD86, MHCII, CD64, CD16, CD40  
+Transcription factor: STAT1, NF-kB, IRF5, BATF3, P65  
+-----
+Secreted: IL1B, IL6, TNF, CXCL10, CCL2, NOS2  
+Surface: CD80, CD86, PD-L1, MHC-II, CD64  
+Transcription factor: STAT1, IRF5, NF-kB, HIF1A, BATF3
+-----
+Secreted: IL1B, IL6, TNF, CCL2, CCL5, IL12A, IL23A, NOS2  
+Surface: CD80, CD86, MHCII, CD40, PD-L1, CD64  
+Transcription factor: STAT1, NF-kB, IRF5, RELA, C/EBPβ
+-----
+Secreted: IL1B, TNF, IL6, CCL2, CCL5, IL12A, IL12B, iNOS  
+Surface: CD80, CD86, MHC-II, CD64, CD11c, TIM-3, PD-L1  
+Transcription factor: STAT1, IRF5, NF-kB, HIF1A, PU.1
+-----
+                    Secreted: IL1B, TNF, IL6, CXCL9, CXCL10, CCL2, iNOS
+                    Surface: CD80, CD86, MHCII, CD64, CD40, PD-L1
+                    Transcription factor: STAT1, IRF5, NF-kB, C/EBPβ, PU.1
+-----
+                    Secreted: IL-1B, IL-6, TNF, CXCL10, CCL2, IL-12B, IL-23A, iNOS
+                    Surface: CD80, CD86, MHC class II, CD64, CD40, PD-L1, CCR7
+                    Transcription factor: STAT1, NF-kB, IRF5, C/EBPβ, HIF1A
+-----
+                    Secreted: TNF, IL1B, IL6, IL12A, CCL2, CCL3, CCL4, NOS2, PTGS2  
+                    Surface: CD80, CD86, MHCII, CD64, CD40, CCR7  
+                    Transcription factor: STAT1, IRF5, NF-kB, HIF1A, PU.1
+-----
+                    Secreted: IL1B, TNF, IL6, CCL2, CCL5, IL12A, IL12B, NOS2  
+                    Surface: CD80, CD86, MHCII, CD64, CD14, PD-L1, CCR7  
+                    Transcription factor: STAT1, NF-kB, IRF5, CEBPB, BATF3
+-----
+Secreted: IL1B, TNF, IL6, CCL2, CCL5, NOS2, IL12A, IL12B  
+Surface: CD80, CD86, MHCII, CD64, CD40, PD-L1  
+Transcription factor: STAT1, NF-kB, IRF5, C/EBPβ, HIF1A
+-----
+Secreted: TNF, IL1B, IL6, IL12A, IL12B, CXCL9, CXCL10, CCL2, CCL5, NOS2  
+Surface: CD80, CD86, MHCII, CD64, CD16, CD14  
+Transcription factor: STAT1, IRF5, NF-kB, CEBPB, PU.1  
+-----
+Secreted: IL1B, IL6, TNF, IL12A, CCL2, CXCL10, iNOS  
+Surface: CD80, CD86, MHCII, CD64, CD11c, PD-L1  
+Transcription factor: STAT1, NF-kB, IRF5, C/EBPβ, AP-1
+-----
+Secreted: IL1B, IL6, TNF, IL12A, CCL2, CCL5, NOS2  
+Surface: CD80, CD86, MHCII, CD64, CD40, PD-L1  
+Transcription factor: STAT1, NF-kB, IRF5, C/EBPβ
+-----
+Secreted: IL1B, IL6, TNF, CCL2, CCL3, CXCL10, NOS2  
+Surface: CD80, CD86, MHCII, CD64, PD-L1  
+Transcription factor: IRF5, STAT1, NF-kB, HIF1A, PU.1
+-----
+Secreted: IL1B, TNF, IL6, IL12A, CCL2, CCL5, CXCL10, NOS2  
+Surface: CD80, CD86, MHCII, CD64, PD-L1  
+Transcription factor: STAT1, IRF5, NF-kB, BATF3, CEBPB
+-----
+                    Secreted: IL1B, IL6, TNF, CCL2, CCL5, NOS2, IL12A
+                    Surface: CD80, CD86, MHCII, CD64, CD40, CCR7
+                    Transcription factor: STAT1, NF-kB, IRF5, HIF1A, PU.1
+-----
+Secreted: IL1B, IL6, TNF, CXCL9, CXCL10, CCL5, iNOS  
+Surface: CD80, CD86, MHCII, CD64, PD-L1  
+Transcription factor: STAT1, IRF5, NF-kB, HIF1A, BATF3
+-----
+                    Secreted: TNF, IL1B, IL6, IL12A, IL12B, CCL2, CXCL10, NOS2, IRF5
+                    Surface: CD80, CD86, MHCII, CD40, PD-L1, CD64, CD14
+                    Transcription factor: STAT1, NF-kB, IRF1, IRF8, C/EBPβ
+-----
+Secreted: TNF, IL1B, IL6, IL12A, IL12B, CCL2, CCL5, CXCL9, CXCL10  
+Surface: CD80, CD86, MHCII, CD64, CD40  
+Transcription factor: STAT1, NF-kB, IRF5, BATF3, RELA  
+-----
+                    Secreted: TNF, IL1B, IL6, IL12A, IL12B, CCL2, CCL3, CCL5, NOS2, PTGS2, CXCL9, CXCL10  
+                    Surface: CD80, CD86, MHCII, CD64, CD32, CD14  
+                    Transcription factor: NF-kB, STAT1, IRF5, BATF3, C/EBPβ, PU.1
+-----
+Sure! Here’s the list of marker genes associated with M1 macrophages organized into the specified categories:
+
+                    Secreted: IL1B, IL6, TNF, IL12A, CCL2, CXCL9, CXCL10, NOS2, IDO1
+                    Surface: CD80, CD86, MHCII, CD64, CD14
+                    Transcription factor: STAT1, IRF1, NF-kB, CEBPB, JUN
+-----
+Secreted: IL1B, TNF, IL6, CCL2, CCL3, CXCL10, NOS2  
+Surface: CD80, CD86, MHCII, CD64, CD274 (PD-L1), F4/80  
+Transcription factor: STAT1, NF-kB, IRF5, BATF3, CEBPB
+-----
+Secreted: IL1B, IL6, TNF, CCL2, CCL5, NOS2  
+Surface: CD80, CD86, HLA-DR, CD64, CD163  
+Transcription factor: STAT1, IRF5, NF-kB, JUN, BATF3  
+-----
+                    Secreted: IL1B, TNF, IL6, IL12B, CCL2, CCL5, iNOS, CXCL10
+                    Surface: CD80, CD86, MHCII, CD64, CD40, CD14
+                    Transcription factor: STAT1, NF-kB, IRF5, PU.1, C/EBPβ
+-----
+Secreted: IL1B, IL6, TNF, IL12A, CCL2, NOS2  
+Surface: CD80, CD86, MHCII, PD-L1, CD40  
+Transcription factor: STAT1, IRF5, NF-κB, C/EBPβ
+-----
+Secreted: IL1B, TNF, IL6, IL12A, CCL2, iNOS  
+Surface: CD80, CD86, MHCII, CD64, CD274  
+Transcription factor: IRF5, STAT1, NF-kB, CEBPB, PU.1
+-----
+                    Secreted: IL1B, TNF, IL6, CCL2, CCL5, NOS2, LTA, IL12A, IL12B  
+                    Surface: CD80, CD86, MHCII, CD64, CD14, CD16, CD40  
+                    Transcription factor: STAT1, NF-kB, IRF5, C/EBPβ, HIF1A
+-----
+Secreted: IL1B, TNF, IL6, IL12A, CXCL9, CXCL10, NOS2  
+Surface: CD80, CD86, MHCII, CD64, CD11c  
+Transcription factor: STAT1, IRF1, NF-kB, CEBPB, RELA
+-----
+                    Secreted: IL-1B, TNF, IL-6, IL-12A, CXCL10, CCL2, iNOS  
+                    Surface: CD80, CD86, MHCII, CD64, CD40  
+                    Transcription factor: NF-kB, STAT1, IRF5, HIF1A
+-----
+Secreted: IL1B, IL6, TNF, CCL2, CXCL10, NOS2  
+Surface: CD80, CD86, MHCII, CD64  
+Transcription factor: STAT1, IRF5, NF-kB, BATF3  
+-----
+                    Secreted: IL1B, TNF, IL6, IL12A, IL12B, CCL2, CCL5, CXCL10, NOS2  
+                    Surface: CD80, CD86, MHCII, TLR2, TLR4, CD64, CD14  
+                    Transcription factor: NF-kB, STAT1, IRF5, CEBPB, BATF3, AP-1  
+-----
+Secreted: IL6, TNF, IL1B, CCL2, CCL5, CXCL10, NOS2  
+Surface: CD80, CD86, MHCII, CD64, CD14, CD40  
+Transcription factor: STAT1, NF-kB, IRF5, C/EBPβ, HIF1A
+-----
+Secreted: IL1B, IL6, TNF, IL12A, CXCL10, CCL2, iNOS  
+Surface: CD80, CD86, MHC-II, CD64, PD-L1  
+Transcription factor: STAT1, NF-kB, IRF5, C/EBPβ, BATF3
+-----
+                    Secreted: TNF, IL1B, IL6, IL12A, IL12B, CCL2, CXCL9, CXCL10, iNOS
+                    Surface: CD80, CD86, MHCII, CD64, CD40, PD-L1, CD54
+                    Transcription factor: STAT1, NF-kB, IRF5, PU.1, CEBPB
+-----
+Secreted: IL1B, IL6, TNF, IL12A, CCL2, CCL5, NOS2, IL10  
+Surface: CD80, CD86, MHCII, PD-L1, CD64, CD40  
+Transcription factor: STAT1, NF-kB, IRF5, HIF1A, CEBPB
+-----
+                    Secreted: IL1B, IL6, TNF, CCL2, CXCL10, NOS2, VEGFA
+                    Surface: CD80, CD86, MHCII, CD64, CD40, PD-L1
+                    Transcription factor: STAT1, IRF5, NF-kB, C/EBPβ, JUN
+-----
+Secreted: IL1B, TNF, IL6, IL12A, CCL2, CCL5, NOS2, IL10  
+Surface: CD80, CD86, MHCII, CD40, PD-L1  
+Transcription factor: STAT1, IRF5, NF-kB, BATF3, PU.1
+-----
+Secreted: IL1B, TNF, IL6, IL12A, CXCL10, CCL2, NOS2  
+Surface: CD80, CD86, MHCII, CD64, CD40, PD-L1  
+Transcription factor: STAT1, IRF5, NF-kB, CEBPB, JunB
+-----
+Secreted: TNF, IL1B, IL6, IL12A, IL12B, CCL2, CCL5, NOS2  
+Surface: CD80, CD86, MHC-II, CD64, F4/80, CCR7  
+Transcription factor: STAT1, IRF5, NF-kB, PU.1, CEBPB
+-----
+                    Secreted: IL6, TNF, IL1B, CCL2, IL12B, IL23A, NOS2, CXCL9, CXCL10  
+                    Surface: CD80, CD86, MHCII, CD64, CD40, PD-L1  
+                    Transcription factor: STAT1, IRF5, NF-kB, CEBPB, RELA
+-----
+                    Secreted: IL1B, TNF, IL6, CCL2, CCL5, CXCL10, NOS2, IL12A, IL12B
+                    Surface: CD80, CD86, MHCII, CD64, CD40, CCR7, PD-L1, CD169
+                    Transcription factor: STAT1, NF-kB, IRF5, C/EBPβ, HIF1A
+-----
+                    Secreted: IL1B, IL6, TNF, CCL2, CCL5, CXCL9, CXCL10, NOS2
+                    Surface: CD80, CD86, MHCII, CD64, CCR2
+                    Transcription factor: STAT1, NF-kB, IRF1, IRF5, PU.1
+-----
+Secreted: IL1B, TNF, IL6, CCL2, IL12B, CXCL10, NOS2  
+Surface: CD80, CD86, MHCII, CD64, CD11c  
+Transcription factor: IRF5, STAT1, NF-kB, PU.1, HIF1A
+-----
+Secreted: IL1B, TNF, IL6, IL12A, CCL2, iNOS  
+Surface: CD80, CD86, MHCII, CD64, CD40  
+Transcription factor: STAT1, NF-kB, IRF5, BATF3, PU.1
+-----
+                    Secreted: IL1B, IL6, TNF, CXCL9, CXCL10, CCL5, iNOS
+                    Surface: CD80, CD86, MHCII, CD64, CD40, PD-L1
+                    Transcription factor: STAT1, NF-kB, IRF5, HIF1A, C/EBPβ
+-----
+                    Secreted: IL1B, IL6, TNF, CCL2, CCL5, CXCL10, iNOS, IL12A, IL12B
+                    Surface: CD80, CD86, MHCII, CD64, CD36, CD40, PD-L1
+                    Transcription factor: NF-kB, STAT1, IRF5, C/EBPβ, PU.1
+-----
+                    Secreted: IL1B, TNF, IL6, CCL2, iNOS, IL12B, CXCL9, CXCL10  
+                    Surface: CD80, CD86, MHCII, PD-L1, CD64, CD40  
+                    Transcription factor: STAT1, NF-κB, IRF5, HIF1A, C/EBPβ  
+-----
+                    Secreted: IL6, TNF, IL1B, CCL2, CXCL10, NOX2, IL12B, IL23A
+                    Surface: CD80, CD86, MHCII, CD64, CD40, CD14, CD11c
+                    Transcription factor: STAT1, IRF5, NF-kB, HIF1A, PU.1, XBP1
+-----
+Secreted: IL1B, IL6, TNF, CCL2, CCL5, CXCL10, NOS2  
+Surface: CD80, CD86, MHCII, CD64, CD14  
+Transcription factor: STAT1, IRF1, NF-kB, C/EBPβ, PU.1
+-----
+                    Secreted: IL1B, TNF, IL6, IL12A, CCL2, CCL5, CXCL10, NOS2
+                    Surface: CD80, CD86, MHCII, CD64, CD206 
+                    Transcription factor: STAT1, NF-kB, IRF5, C/EBPβ, RUNX1
+-----
+                    Secreted: IL1B, IL6, TNF, CXCL9, CXCL10, CCL2, CCL5, NOS2
+                    Surface: CD80, CD86, MHCII, CD64, PD-L1, CD40
+                    Transcription factor: STAT1, IRF5, NF-kB, C/EBPβ, JUN
+-----
+Secreted: TNF, IL1B, IL6, IL12A, CCL2, CCL5, NOS2  
+Surface: CD86, CD64, MHCII, CD80, PD-L1  
+Transcription factor: IRF5, STAT1, NF-kB, C/EBPβ, BATF3
+-----
+Secreted: TNF, IL1B, IL6, IL12A, IL23A, CCL2, CCL3, CXCL10  
+Surface: CD80, CD86, MHCII, CD64, CD40  
+Transcription factor: STAT1, IRF5, NF-kB, CEBPB, BATF3
+-----
+Secreted: IL1B, TNF, IL6, IL12A, CCL2, CCL5, NOS2  
+Surface: CD80, CD86, MHCII, CD64  
+Transcription factor: STAT1, IRF5, NF-kB, BATF3
+-----
+                    Secreted: IL1B, TNF, IL6, CCL2, CCL5, iNOS, IL12B
+                    Surface: CD80, CD86, MHCII, PD-L1, CD64
+                    Transcription factor: STAT1, NF-kB, IRF5, C/EBPβ
+-----
+                    Secreted: IL1B, TNF, IL6, IL12B, CCL2, CCL3, CXCL9, CXCL10, NOS2, COX2  
+                    Surface: CD80, CD86, MHCII, CD64, CD14, PD-L1, F4/80  
+                    Transcription factor: STAT1, NF-kB, IRF5, HIF1A, BATF3
+-----
+                    Secreted: IL1B, TNF, IL6, IL12A, CCL2, CCL5, NOS2, PTGS2
+                    Surface: CD80, CD86, MHCII, CCR7, CD64, CD40
+                    Transcription factor: STAT1, NF-kB, IRF5, PU.1, BATF3
+-----
+Secreted: IL1B, TNF, IL6, IL12A, CCL2, CXCL10, NOS2  
+Surface: CD80, CD86, MHCII, PD-L1, FcgR, CCR7  
+Transcription factor: STAT1, NF-kB, IRF5, C/EBPβ, PU.1
+-----
+                    Secreted: IL1B, IL6, TNF, CCL2, CCL5, iNOS, CXCL9, CXCL10  
+                    Surface: CD80, CD86, MHCII, CD64, CD54  
+                    Transcription factor: IRF5, STAT1, NF-kB, CEBPB, JUN
+-----
+                    Secreted: IL1B, TNF, IL6, IL12A, CCL2, iNOS
+                    Surface: CD80, CD86, MHCII, CD64, PD-L1
+                    Transcription factor: STAT1, IRF5, NF-kB, C/EBPβ
+-----
+Secreted: IL1B, TNF, IL6, CXCL10, CCL2, NOS2, PTGS2  
+Surface: CD80, CD86, MHCII, CD64, CD40, CD11c  
+Transcription factor: IRF5, STAT1, NF-kB, CEBPB, PU.1
+-----
+                    Secreted: TNF, IL1B, IL6, IL12A, IL12B, CCL2, iNOS, CXCL9, CXCL10
+                    Surface: CD80, CD86, MHCII, CD40, CD64, PD-L1
+                    Transcription factor: STAT1, NF-kB, IRF5, C/EBPβ, JunB
+-----
+                    Secreted: IL1B, IL6, TNF, IL12B, CCL2, CCL5, iNOS, ARG1  
+                    Surface: CD80, CD86, MHCII, CD64, CD162  
+                    Transcription factor: STAT1, IRF5, NF-kB, HIF1A, PU.1  
+-----
+                    Secreted: IL1B, TNF, IL6, CCL2, CCL3, IL12A, IL12B, NOS2, CXCL10
+                    Surface: CD80, CD86, MHC2, CD64, CD40, PD-L1
+                    Transcription factor: STAT1, NF-kB, IRF5, C/EBPβ, BATF3
+-----
+                    Secreted: IL6, TNF, IL1B, CCL2, IL12B, CXCL9, CXCL10, NOS2
+                    Surface: CD80, CD86, MHCII, CD64, CD14, PD-L1
+                    Transcription factor: STAT1, NF-kB, IRF5, C/EBPβ, PU.1
+-----
+                    Secreted: IL1B, TNF, IL6, IL12A, CCL2, CCL5, NOS2, CSF2
+                    Surface: CD80, CD86, MHCII, CD64, CD40, PD-L1
+                    Transcription factor: STAT1, NF-kB, IRF5, HIF1A, BATF3
+-----
+Secreted: IL1B, IL6, TNF, CCL2, CCL5, CXCL10, NOS2  
+Surface: CD80, CD86, HLA-DR, CD64, CD40  
+Transcription factor: IRF5, STAT1, NF-kB, PU.1, CEBPB
+-----
+Secreted: IL1B, IL6, TNF, CCL2, CCL5, NOS2  
+Surface: CD80, CD86, MHCII, CD64, CD40  
+Transcription factor: STAT1, IRF5, NF-kB, HIF1A, PU.1  
+-----
+Secreted: IL1B, TNF, IL6, IL12A, IL23A, CCL2, CCL5, NOS2  
+Surface: CD86, CD80, MHCII, CD64, CCR7  
+Transcription factor: STAT1, IRF5, NF-kB, C/EBPβ, HIF1A  
+-----
+Secreted: IL-1B, IL-6, TNF, CXCL10, CCL2, IL-12A, IL-23A, NOS2  
+Surface: CD80, CD86, MHCII, CD64, CD40, PD-L1  
+Transcription factor: STAT1, NF-kB, IRF5, CEBPB, BATF3
+-----
+Secreted: IL1B, TNF, IL6, IL12A, IL12B, CCL2, CCL5, NOS2  
+Surface: CD80, CD86, MHCII, CD64, CD40, PD-L1  
+Transcription factor: STAT1, IRF5, NF-kB, HIF1A, BATF3
+-----
+Secreted: TNF, IL1B, IL6, IL12A, IL12B, CCL2, CCL5, iNOS  
+Surface: CD80, CD86, MHCII, CD64, CD40, PD-L1  
+Transcription factor: STAT1, NF-kB, IRF5, AP-1, CEBPB
+-----
+Secreted: IL-1β, IL-6, TNF, IL-12, CCL2, CCL5, iNOS  
+Surface: CD80, CD86, MHC II, CD64, PDL1  
+Transcription factor: STAT1, IRF5, NF-κB, BATF3, HIF1A
+-----
+                    Secreted: IL1B, TNF, IL6, IL12A, IL12B, CCL2, CCL5, CXCL10, NOS2, MMP9  
+                    Surface: CD80, CD86, CD40, MHCII, TLR2, TLR4, CD54  
+                    Transcription factor: STAT1, NF-kB, IRF5, CEBPB, BATF3
+-----
+                    Secreted: TNF, IL1B, IL6, IL12A, IL12B, CCL2, CCL5, NOS2, PTGS2
+                    Surface: CD80, CD86, MHCII, CD64, CD40, PD-L1, FAS
+                    Transcription factor: STAT1, IRF5, NF-kB, C/EBPβ, HIF1A
+-----
+Secreted: IL6, TNF, IL1B, CCL2, CCL5, IL12A, IL12B, NOS2  
+Surface: CD80, CD86, MHCII, CD64, CD14, PD-L1  
+Transcription factor: IRF5, NF-kB, STAT1, HIF1A, BATF3
+-----
+                    Secreted: IL1B, IL6, TNF, IL12A, CCL2, CXCL10, NOS2, PTGS2
+                    Surface: CD80, CD86, MHCII, CD64, CD14, PD-L1, TIM-3
+                    Transcription factor: NF-kB, STAT1, IRF5, C/EBPβ, PU.1
+-----
+Secreted: IL1B, TNF, IL6, CCL2, CCL3, CXCL10, NOS2  
+Surface: CD80, CD86, MHCII, CD64, PD-L1, TIM-3  
+Transcription factor: STAT1, NF-kB, IRF5, C/EBPβ
+-----
+                    Secreted: IL1B, TNF, IL6, CCL2, CCL5, IL12A, iNOS, MMP9
+                    Surface: CD80, CD86, HLA-DR, CD64, CD11c, CCR7
+                    Transcription factor: STAT1, NF-kB, IRF5, BATF3, PU.1
+-----
+                    Secreted: IL6, TNF, IL12B, IL1B, CCL2, CCL3, CXCL10
+                    Surface: CD80, CD86, MHCII, CD40, CD64
+                    Transcription factor: STAT1, NF-kB, IRF5, C/EBPβ, BATF3
+-----
+Secreted: IL1B, TNF, IL6, IL12A, CCL2, CCL5, NOS2, PTGS2  
+Surface: CD80, CD86, MHCII, CD64, CD14  
+Transcription factor: STAT1, IRF5, NF-kB, CEBPB, ATF3
+-----
+                    Secreted: IL1B, IL6, TNF, IL12A, CCL2, CCL3, CXCL9, CXCL10, iNOS
+                    Surface: CD80, CD86, MHCII, CD64, CD40, PD-L1
+                    Transcription factor: STAT1, NF-kB, IRF5, BATF3, C/EBPβ
+-----
+                    Secreted: IL1B, IL6, TNF, CCL2, CCL5, CXCL10, NOS2, ARG1
+                    Surface: CD80, CD86, MHCII, CD64, CD40, PD-L1
+                    Transcription factor: NF-kB, STAT1, IRF5, C/EBPβ, BATF3
+-----
+                    Secreted: IL1B, TNF, IL6, CCL2, CXCL10, iNOS
+                    Surface: CD80, CD86, MHCII, CD64, PD-L1
+                    Transcription factor: STAT1, IRF5, NF-kB, HIF1A
+-----
+                    Secreted: IL1B, TNF, IL6, CCL2, CXCL10, NOS2, IL12B
+                    Surface: CD80, CD86, MHCII, CD64, CD40, PD-L1
+                    Transcription factor: IRF5, STAT1, NF-kB, C/EBPβ, BATF3
+-----
+Secreted: IL1B, IL6, TNF, CCL2, CCL3, NOS2, IL12A  
+Surface: CD80, CD86, MHCII, CD64, CD40, PD-L1  
+Transcription factor: STAT1, NF-kB, IRF5, C/EBPβ, HIF1A  
+-----
+                    Secreted: IL1B, IL6, TNF, CCL2, CCL3, IL12A, IL12B, NOS2, CXCL9, CXCL10  
+                    Surface: CD80, CD86, HLA-DR, CD64, CD36, CD14  
+                    Transcription factor: NF-kB, STAT1, IRF5, IRF8, CEBPB, CEBPD
+-----
+                    Secreted: IL1B, TNF, IL6, IL12A, CCL2, iNOS
+                    Surface: CD80, CD86, MHCII, CD64, PD-L1
+                    Transcription factor: STAT1, IRF5, NF-κB, HIF1A, C/EBPβ
+-----
+                    Secreted: TNF, IL1B, IL6, IL12A, IL12B, CCL2, CCL5, NOS2, ARG1, IFNG
+                    Surface: CD80, CD86, MHCII, CD64, CD14, CD40, PD-L1, F4/80
+                    Transcription factor: STAT1, NF-kB, IRF5, PU.1, CEBPB
+-----
+                    Secreted: IL1B, IL6, TNF, IL12A, CCL2, CCL5, NOS2, PTGS2, MMP9  
+                    Surface: CD80, CD86, HLA-DR, CD64, CD40, CCR7  
+                    Transcription factor: STAT1, NF-kB, IRF5, C/EBPβ, PU.1
+-----
+                    Secreted: IL1B, IL6, TNF, IL12A, CCL2, CCL5, NOS2, CXCL10
+                    Surface: CD80, CD86, MHCII, CD64, CD11c, CD14
+                    Transcription factor: STAT1, IRF5, NF-kB, CEBPB, JUN
+-----
+                    Secreted: IL1B, IL6, TNF, IL12A, CCL2, CCL3, CXCL10, NOS2, PTGS2  
+                    Surface: CD80, CD86, MHCII, CD64, CD40, PD-L1  
+                    Transcription factor: STAT1, IRF5, NF-kB, PU.1, C/EBPβ
+-----
+                    Secreted: IL1B, TNF, IL6, IL12A, CCL2, CCL3, CXCL10, NOS2
+                    Surface: CD80, CD86, MHCII, CD64, CD14, PD-L1
+                    Transcription factor: STAT1, IRF5, NF-kB, C/EBPβ, PU.1
+-----
+Secreted: IL6, TNF, IL1B, IL12A, CCL2, CCL5, CXCL9, CXCL10  
+Surface: CD80, CD86, HLA-DR, CD64, CD40  
+Transcription factor: IRF5, STAT1, NF-kB, PU.1, CEBPB
+-----
+Secreted: IL1B, IL6, TNF, CCL2, CCL5, iNOS, IL12A  
+Surface: CD80, CD86, MHCII, CD64, CD40, PD-L1  
+Transcription factor: STAT1, NF-kB, IRF5, CEBPB, BATF3
+-----
+Secreted: IL1B, IL6, TNF, CCL2, CXCL10, NOX2  
+Surface: CD68, CD80, CD86, MHCII, F4/80  
+Transcription factor: STAT1, IRF5, NF-kB, HIF1A, BATF3  
+-----
+Secreted: IL1B, TNF, IL6, IL12A, CCL2, CCL5, NOS2  
+Surface: CD80, CD86, MHCII, CD64, CD40, PD-L1  
+Transcription factor: STAT1, IRF5, NF-kB, CEBPB, BATF3
+-----
+Secreted: IL1B, IL6, TNF, CCL2, CCL5, IL12A, IL23A, NOS2  
+Surface: CD80, CD86, MHCII, CD64, CD40, PD-L1, CCR7  
+Transcription factor: STAT1, NF-kB, IRF5, C/EBPβ, HIF1A
+-----
+                    Secreted: TNF, IL1B, IL6, IL12A, CCL2, CXCL10, NOS2, PTGS2  
+                    Surface: CD80, CD86, MHCII, CD64, CD40, TLR4  
+                    Transcription factor: STAT1, IRF5, NF-kB, C/EBPβ, STAT3
+-----
+Secreted: IL6, TNF, IL1B, CCL2, CCL5, NOS2, IL12A  
+Surface: CD80, CD86, MHCII, CD64, CD40  
+Transcription factor: STAT1, NF-kB, IRF5, BATF3, CEBPB
